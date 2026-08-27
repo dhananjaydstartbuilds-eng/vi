@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vicky — Graphic Designer</title>
+    <meta name="description" content="Building design-led digital products, one at a time." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400;1,500&family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/hero/css/hero.css?v=20260820j" />
+    <style>
+      html, body { margin: 0; background: #000; }
+      .hero-section { height: 700vh; }
+      .hero-sticky {
+        position: sticky;
+        top: 0;
+        height: 100vh;
+        height: 100dvh;
+        min-height: 100svh;
+        overflow: hidden;
+        background: #000;
+      }
+    </style>
+    <script>
+      if ("scrollRestoration" in history) history.scrollRestoration = "manual";
+      window.scrollTo(0, 0);
+    </script>
+  </head>
+  <body>
+    <script>
+      if (!location.hash) {
+        window.scrollTo(0, 0);
+        document.documentElement.scrollTop = 0;
+      }
+    </script>
+    <section class="hero-section" id="hero-section">
+      <div class="hero-sticky" id="hero-sticky">
+        <video
+          id="hero-video"
+          class="hero-video"
+          muted
+          playsinline
+          preload="auto"
+        >
+          <source src="/hero/videos/hero.webm" type="video/webm" />
+          <source src="/hero/videos/hero.mp4" type="video/mp4" />
+        </video>
+        <div class="hero-fallback" aria-hidden="true"></div>
+        <div class="hero-grain" aria-hidden="true"></div>
+
+        <div
+          class="vero-glow"
+          id="vero-embed"
+          style="--glow-opacity: 0; --glow-w: 72vw; --glow-h: 40vw; --glow-open: 0; --glow-scale: 1; --glow-y: 50%"
+        >
+          <div class="vero-glow-zoom">
+            <iframe id="vero-frame" title="Vero Studio" data-src="/vero"></iframe>
+          </div>
+        </div>
+
+        <div class="hero-overlay" id="hero-overlay">
+          <div>
+            <div class="hero-top">
+              <p class="hero-identity">
+                <span class="hero-name">Vicky</span>
+                <span class="hero-role">Graphic Designer</span>
+              </p>
+              <div class="hero-ctas">
+                <a class="hero-book" href="#vero-embed">
+                  Enter Vero
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                    <path d="M7 17L17 7M7 7h10v10" />
+                  </svg>
+                </a>
+                <a
+                  class="hero-book"
+                  href="https://cal.com/uxkunal/15min"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Book a Call
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                    <path d="M7 17L17 7M7 7h10v10" />
+                  </svg>
+                </a>
+              </div>
+            </div>
+
+            <div class="hero-tabs" role="tablist" aria-label="Audience selector" id="hero-tabs"></div>
+            <h1 class="hero-headline" id="hero-headline"></h1>
+          </div>
+
+          <div class="hero-bottom">
+            <div class="hero-left">
+              <p class="hero-brands-copy">Worked with over 25+ brands around the globe.</p>
+              <div class="hero-ticker-wrap">
+                <div class="hero-ticker" id="hero-ticker"></div>
+              </div>
+              <div class="hero-quotes" id="hero-quotes"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/ScrollTrigger.min.js"></script>
+    <script src="/hero/js/hero.js?v=20260820l"></script>
+  </body>
+</html>
