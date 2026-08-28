@@ -1,4 +1,6 @@
 html {
+  overflow-x: clip;
+  overflow-y: auto;
   scrollbar-width: thin;
   scrollbar-color: rgba(210, 210, 210, 0.7) transparent;
 }
@@ -22,4 +24,9 @@ html::-webkit-scrollbar-thumb {
   border-radius: 8px;
   border: 3px solid transparent;
   background-clip: content-box;
+}
+
+html::-webkit-scrollbar:horizontal {
+  height: 0;
+  display: none;
 }
