@@ -50,6 +50,17 @@ PROXY_PATH_PREFIXES = (
 
 PATCH_EXTENSIONS = {".html", ".js", ".css", ".mjs", ".json"}
 
+# Legacy Sanity splash media remapped to local synthwave hero assets.
+SPLASH_VIDEO_ALIASES = frozenset(
+    {
+        "/sanity-cdn/files/xei5vqg0/production/bea646a70445ada4b773c2621bc82183bbb837d6.mp4",
+        "/sanity-cdn/files/xei5vqg0/production/c4f39f4aedd09681f150b0b8f6a05db6d5c55bcd.mp4",
+    }
+)
+SPLASH_POSTER_ALIAS = (
+    "/sanity-cdn/images/xei5vqg0/production/fe9dfb2b06f0b04fa45dc0ebd925dc3b39517dc5-1728x1001.jpg"
+)
+
 
 class SiteHandler(SimpleHTTPRequestHandler):
     site_root = SITE_ROOT
@@ -112,6 +123,13 @@ class SiteHandler(SimpleHTTPRequestHandler):
             self._serve_cdn(path[len("/sanity/") :])
             return
 
+        if path in SPLASH_VIDEO_ALIASES:
+            self.path = f"/videos/hero-bg.mp4{query_suffix}"
+            path = "/videos/hero-bg.mp4"
+        elif path == SPLASH_POSTER_ALIAS:
+            self.path = f"/videos/hero-bg-poster.jpg{query_suffix}"
+            path = "/videos/hero-bg-poster.jpg"
+
         if path.startswith("/sanity-cdn/"):
             self._serve_cdn(path[len("/sanity-cdn/") :], remote_prefix="/")
             return
@@ -157,6 +175,13 @@ class SiteHandler(SimpleHTTPRequestHandler):
                     self._send_head_only(body, local_file.name)
                 else:
                     self._send_text(body, local_file.name)
+                return
+            if local_file.suffix == ".svg":
+                data = local_file.read_bytes()
+                if method == "HEAD":
+                    self._send_head_only_bytes(data, local_file.name)
+                else:
+                    self._send_bytes_no_cache(data, local_file.name)
                 return
             if method == "HEAD":
                 return super().do_HEAD()
@@ -525,6 +550,30 @@ class SiteHandler(SimpleHTTPRequestHandler):
             self.wfile.write(data)
         except (BrokenPipeError, ConnectionResetError):
             pass
+
+    def _send_bytes_no_cache(self, data: bytes, filename: str) -> None:
+        content_type, _ = mimetypes.guess_type(filename)
+        content_type = content_type or "application/octet-stream"
+
+        self.send_response(200)
+        self.send_header("Content-Type", content_type)
+        self.send_header("Content-Length", str(len(data)))
+        self.send_header("Cache-Control", "no-cache")
+        self.end_headers()
+        try:
+            self.wfile.write(data)
+        except (BrokenPipeError, ConnectionResetError):
+            pass
+
+    def _send_head_only_bytes(self, data: bytes, filename: str) -> None:
+        content_type, _ = mimetypes.guess_type(filename)
+        content_type = content_type or "application/octet-stream"
+
+        self.send_response(200)
+        self.send_header("Content-Type", content_type)
+        self.send_header("Content-Length", str(len(data)))
+        self.send_header("Cache-Control", "no-cache")
+        self.end_headers()
 
     def end_headers(self) -> None:
         super().end_headers()

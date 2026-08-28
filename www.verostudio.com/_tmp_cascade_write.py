@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*-
+html = """<!doctype html><style>
+#t{--mask-progress:1!important;width:200px;height:200px;background:red;
+clip-path:polygon(calc((1 - var(--mask-progress,1)) * 100%) 0,100% 0,100% 100%,calc((1 - var(--mask-progress,1)) * 100%) 100%)}
+</style>
+<div id=t style="--mask-progress:0"></div>
+<script>
+const el=document.getElementById('t');
+el.style.setProperty('--mask-progress','0');
+const cs=getComputedStyle(el);
+document.title = JSON.stringify({
+  v: cs.getPropertyValue('--mask-progress').trim(),
+  clip: cs.clipPath
+});
+</script>
+"""
+open(r"d:\Node\personal\3d\www.verostudio.com\_tmp_cascade.html", "w", encoding="utf-8").write(html)
+print("ok")

@@ -1,0 +1,572 @@
+﻿=== index.html ===
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 3960 ===
+8mpNy" async=""></script><link rel="preload" href="/_next/static/chunks/0eklt3ph0zxni.css?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy" as="style"/><title>Vero</title><meta name="description" content="Vero is a luxury fine-art studio creating museum-quality sculptures that capture every detail."/><meta name="application-name" content="VERO"/><link rel="canonical" href="https://verostudio.com"/><meta property="og:title" content="Vero"/><meta property="og:description" content="Vero is a luxury fine-art studio crea
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 4239 ===
+ detail."/><meta name="application-name" content="VERO"/><link rel="canonical" href="https://verostudio.com"/><meta property="og:title" content="Vero"/><meta property="og:description" content="Vero is a luxury fine-art studio creating museum-quality sculptures that capture every detail."/><meta property="og:url" content="https://verostudio.com"/><meta property="og:site_name" content="VERO"/><meta property="og:locale" content="en_US"/><meta property="og:image" content="/sanity-cdn/images/xei5vqg0/producti
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 4975 ===
+Vero"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Vero"/><meta name="twitter:description" content="Vero is a luxury fine-art studio creating museum-quality sculptures that capture every detail."/><meta name="twitter:image" content="/sanity-cdn/images/xei5vqg0/production/8e3034304dca200363d214d56484cafa014a2326-20604x11590.jpg?w=1200&amp;h=630&amp;fit=crop"/><link rel="apple-touch-icon" sizes="180x180" href="/app
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 6395 ===
+galName":"Vero Studio LLC","url":"https://verostudio.com","email":"advisory@verostudio.com","logo":"https://verostudio.com/android-chrome-512x512.png","description":"Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.","address":{"@type":"PostalAddress","streetAddress":"56 Bogart St, Unit 203","addressLocality":"New York","addressRegion":"NY","postalCode":"11206","addressCountry":"US"}}</script><script type="application/ld+json">{"@context":"https://schema.org",
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 6856 ===
+ation/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://verostudio.com/#website","name":"VERO","url":"https://verostudio.com","description":"Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.","inLanguage":"en-US","publisher":{"@id":"https://verostudio.com/#organization"}}</script><meta name="sentry-trace" content="765847109097de874c5eeb556f09e167-5b00c771a5353f4e-1"/><meta name="baggage" content="sentry-environment=vercel-production,se
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 17859 ===
+<div class="MainHero-module-scss-module__yRwbjq__beacon"></div><div class="MainHero-module-scss-module__yRwbjq__logo" style="visibility:hidden"></div><div class="MainHero-module-scss-module__yRwbjq__title"><h1><em>Custom</em> <span class="uppercase">sculpture</span> <em>of your</em> <span class="uppercase">wedding dress.</span></h1></div><div class="ScrollCue-module-scss-module__UbqG-W__ScrollCue MainHero-module-scss-module__yRwbjq__scrollCue" aria-hidden="true"><svg role="presentation" aria-hidden="true
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 19740 ===
+ule-scss-module__6gNPWa__pois"></div></div><div class="DressDiscover-module-scss-module__6gNPWa__content"><h2 class="DressDiscover-module-scss-module__6gNPWa__title">Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.</h2><div class="DressDiscover-module-scss-module__6gNPWa__description"><p>Each Vero sculpture stands approximately 15 inches tall, weighs 5û10 pounds, and has the presence of ceramic. Our sculptures are crafted through a blend of advanced technolog
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 19835 ===
+__content"><h2 class="DressDiscover-module-scss-module__6gNPWa__title">Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.</h2><div class="DressDiscover-module-scss-module__6gNPWa__description"><p>Each Vero sculpture stands approximately 15 inches tall, weighs 5û10 pounds, and has the presence of ceramic. Our sculptures are crafted through a blend of advanced technology and hand craftsmanship so that your gown is captured with exceptional precision and detail, e
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 19939 ===
+that transforms your wedding dress into a timeless sculpture.</h2><div class="DressDiscover-module-scss-module__6gNPWa__description"><p>Each Vero sculpture stands approximately 15 inches tall, weighs 5û10 pounds, and has the presence of ceramic. Our sculptures are crafted through a blend of advanced technology and hand craftsmanship so that your gown is captured with exceptional precision and detail, exactly as it was worn on your wedding day.</p></div><a class="Button-module-scss-module__VLzsWq__Button 
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 32669 ===
+ule-scss-module__yFfC6G__orientation-horizontal Parallax-module-scss-module__yFfC6G__direction-inverse" style="--parallax-range:40;--parallax-height:0.00;--parallax-width:0.00"><div class="Parallax-module-scss-module__yFfC6G__container"><img alt="To sculpture" loading="lazy" width="2975" height="1800" decoding="async" data-nimg="1" class="Media-module-scss-module__lFYlva__desktop FullSizeScrollerStepper-module-scss-module__K-7siW__media" style="color:transparent" sizes="100.00vw" srcSet="/sanity-cdn/imag
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 35025 ===
+roduction/62dddffa9563718a6437deb91cb2a91ceb0e01f2-2975x1800.jpg?w=3840&amp;q=75&amp;auto=format 3840w" src="/sanity-cdn/images/xei5vqg0/production/62dddffa9563718a6437deb91cb2a91ceb0e01f2-2975x1800.jpg?w=3840&amp;q=75&amp;auto=format"/><img alt="To sculpture" loading="lazy" width="1521" height="2000" decoding="async" data-nimg="1" class="Media-module-scss-module__lFYlva__mobile FullSizeScrollerStepper-module-scss-module__K-7siW__media" style="color:transparent" sizes="100.00vw" srcSet="/sanity-cdn/image
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 38333 ===
+"uppercase">data<em>,</em></span></p></div></div><div class="FullSizeScrollerStepper-module-scss-module__K-7siW__overflow" style="--index:2"><div class="FullSizeScrollerStepper-module-scss-module__K-7siW__text"><p><em>to </em><span class="uppercase">sculpture.</span></p></div></div></div></div><div role="tablist" aria-label="Carousel navigation" class="BulletPoints-module-scss-module__ZPRUha__BulletPoints FullSizeScrollerStepper-module-scss-module__K-7siW__points"><button role="tab" aria-selected="true" 
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 48724 ===
+r meant to disappear.</span></p><div class="DiptychMainEdito-module-scss-module__bJd_sW__text"><p><em>You wear your gown once, then itÆs tucked away for years. It deserves to be appreciated forever.</em><br/>Vero transforms your dress into a lasting sculpture, created through a balance of advanced technology and hand craftsmanship so that we can preserve every detail. Every commission begins with a private consultation. Together, we&#x27;ll discuss your commission, coordinate the collection of your gown,
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 62378 ===
+ule-scss-module__k9ek4G__container"><ul class="MediaGrid-module-scss-module__k9ek4G__items"><li class="MediaGrid-module-scss-module__k9ek4G__MediaGridItem"><div class="MediaGrid-module-scss-module__k9ek4G__mediaContainer"><img alt="Vero wedding gown sculpture displayed as decorative art in a luxury home interior." loading="lazy" width="1104" height="1424" decoding="async" data-nimg="1" class="MediaGrid-module-scss-module__k9ek4G__media" style="color:transparent" sizes="(min-width: 930px) 20.00vw, 100.00v
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 65120 ===
+on"><span class="MediaGrid-module-scss-module__k9ek4G__text">Vero<!-- -->á</span></span></p></li><li class="MediaGrid-module-scss-module__k9ek4G__MediaGridItem"><div class="MediaGrid-module-scss-module__k9ek4G__mediaContainer"><img alt="Wedding gown sculpture displayed as decorative art in a powder room with floral wallpaper, brass fixtures, and a marble sink." loading="lazy" width="2048" height="2048" decoding="async" data-nimg="1" class="MediaGrid-module-scss-module__k9ek4G__media" style="color:transpa
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 67910 ===
+on"><span class="MediaGrid-module-scss-module__k9ek4G__text">Vero<!-- -->á</span></span></p></li><li class="MediaGrid-module-scss-module__k9ek4G__MediaGridItem"><div class="MediaGrid-module-scss-module__k9ek4G__mediaContainer"><img alt="Wedding gown sculpture displayed as decorative art in a powder room with floral wallpaper, brass fixtures, and a marble sink." loading="lazy" width="1086" height="1448" decoding="async" data-nimg="1" class="MediaGrid-module-scss-module__k9ek4G__media" style="color:transpa
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 70706 ===
+pan class="MediaGrid-module-scss-module__k9ek4G__text">Vero<!-- -->á</span></span></p></li><li class="MediaGrid-module-scss-module__k9ek4G__MediaGridItem"><div class="MediaGrid-module-scss-module__k9ek4G__mediaContainer"><img alt="White wedding gown sculpture displayed on a fluted cabinet beneath a large framed artwork." loading="lazy" width="1106" height="1422" decoding="async" data-nimg="1" class="MediaGrid-module-scss-module__k9ek4G__media" style="color:transparent" sizes="(min-width: 930px) 20.00vw, 
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 73461 ===
+pan class="MediaGrid-module-scss-module__k9ek4G__text">Vero<!-- -->á</span></span></p></li><li class="MediaGrid-module-scss-module__k9ek4G__MediaGridItem"><div class="MediaGrid-module-scss-module__k9ek4G__mediaContainer"><img alt="White wedding gown sculpture displayed on a wooden grand piano beside a table lamp and framed paintings." loading="lazy" width="1086" height="1448" decoding="async" data-nimg="1" class="MediaGrid-module-scss-module__k9ek4G__media" style="color:transparent" sizes="(min-width: 93
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 76230 ===
+pan class="MediaGrid-module-scss-module__k9ek4G__text">Vero<!-- -->á</span></span></p></li><li class="MediaGrid-module-scss-module__k9ek4G__MediaGridItem"><div class="MediaGrid-module-scss-module__k9ek4G__mediaContainer"><img alt="White wedding gown sculpture displayed on an antique wooden desk beneath a decorative wall sculpture." loading="lazy" width="1086" height="1448" decoding="async" data-nimg="1" class="MediaGrid-module-scss-module__k9ek4G__media" style="color:transparent" sizes="(min-width: 930px
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 76302 ===
+an></span></p></li><li class="MediaGrid-module-scss-module__k9ek4G__MediaGridItem"><div class="MediaGrid-module-scss-module__k9ek4G__mediaContainer"><img alt="White wedding gown sculpture displayed on an antique wooden desk beneath a decorative wall sculpture." loading="lazy" width="1086" height="1448" decoding="async" data-nimg="1" class="MediaGrid-module-scss-module__k9ek4G__media" style="color:transparent" sizes="(min-width: 930px) 20.00vw, 100.00vw" srcSet="/sanity-cdn/images/xei5vqg0/production/2974
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 79010 ===
+iaGrid-module-scss-module__k9ek4G__text">Vero<!-- -->á</span></span></p></li><li class="MediaGrid-module-scss-module__k9ek4G__MediaGridItem"><div class="MediaGrid-module-scss-module__k9ek4G__mediaContainer"><img alt="Close-up of a white wedding gown sculpture highlighting lace detailing, tailored seams, and sculptural form." loading="lazy" width="11648" height="8736" decoding="async" data-nimg="1" class="MediaGrid-module-scss-module__k9ek4G__media" style="color:transparent" sizes="(min-width: 930px) 20.0
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 118946 ===
+en\":[{\"_key\":\"b6cf24f21ff2\",\"_type\":\"span\",\"marks\":[\"em\"],\"text\":\"Custom\"},{\"_key\":\"e53464162c3e\",\"_type\":\"span\",\"marks\":[],\"text\":\" \"},{\"_key\":\"ff837fbab42f\",\"_type\":\"span\",\"marks\":[\"uppercase\"],\"text\":\"sculpture\"},{\"_key\":\"39d7bef460ff\",\"_type\":\"span\",\"marks\":[],\"text\":\" \"},{\"_key\":\"a6ba24279cbc\",\"_type\":\"span\",\"marks\":[\"em\"],\"text\":\"of your\"},{\"_key\":\"5f008798f606\",\"_type\":\"span\",\"marks\":[],\"text\":\" \"},{\"_key\"
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 120790 ===
+ESERVES TO  \\nlast  \"},{\"_key\":\"f0488eb20e7e\",\"_type\":\"span\",\"marks\":[\"em\"],\"text\":\"forever.\"}],\"markDefs\":[],\"style\":\"normal\"}]],\"title\":\"Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.\",\"description\":[{\"_key\":\"b4041a00987f\",\"_type\":\"block\",\"children\":[{\"_key\":\"5bfcb69740b6\",\"_type\":\"span\",\"marks\":[],\"text\":\"Each Vero sculpture stands approximately 15 inches tall, weighs 5û10 pounds, and has the presence 
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 120961 ===
+is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.\",\"description\":[{\"_key\":\"b4041a00987f\",\"_type\":\"block\",\"children\":[{\"_key\":\"5bfcb69740b6\",\"_type\":\"span\",\"marks\":[],\"text\":\"Each Vero sculpture stands approximately 15 inches tall, weighs 5û10 pounds, and has the presence of ceramic. Our sculptures are crafted through a blend of advanced technology and hand craftsmanship so that your gown is captured with exceptional precision and detail, e
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 121065 ===
+n\":[{\"_key\":\"b4041a00987f\",\"_type\":\"block\",\"children\":[{\"_key\":\"5bfcb69740b6\",\"_type\":\"span\",\"marks\":[],\"text\":\"Each Vero sculpture stands approximately 15 inches tall, weighs 5û10 pounds, and has the presence of ceramic. Our sculptures are crafted through a blend of advanced technology and hand craftsmanship so that your gown is captured with exceptional precision and detail, exactly as it was worn on your wedding day.\"}],\"markDefs\":[],\"style\":\"normal\"}],\"button\":{\"href
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 124881 ===
+arks\":[\"em\",\"uppercase\"],\"text\":\",\"}],\"markDefs\":[],\"style\":\"normal\"}]},{\"media\":{\"type\":\"image\",\"desktop\":{\"src\":\"/sanity-cdn/images/xei5vqg0/production/62dddffa9563718a6437deb91cb2a91ceb0e01f2-2975x1800.jpg\",\"alt\":\"To sculpture\",\"width\":2975,\"height\":1800},\"mobile\":{\"src\":\"/sanity-cdn/images/xei5vqg0/production/396f260c54896295fa31fe6985dd256a8da113e5-1521x2000.jpg\",\"alt\":\"To sculpture\",\"width\":1521,\"height\":2000}},\"text\":[{\"_key\":\"df00bc9323d0\",\"
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 125056 ===
+tion/62dddffa9563718a6437deb91cb2a91ceb0e01f2-2975x1800.jpg\",\"alt\":\"To sculpture\",\"width\":2975,\"height\":1800},\"mobile\":{\"src\":\"/sanity-cdn/images/xei5vqg0/production/396f260c54896295fa31fe6985dd256a8da113e5-1521x2000.jpg\",\"alt\":\"To sculpture\",\"width\":1521,\"height\":2000}},\"text\":[{\"_key\":\"df00bc9323d0\",\"_type\":\"block\",\"children\":[{\"_key\":\"11aeedb1b37c\",\"_type\":\"span\",\"marks\":[\"em\"],\"text\":\"to \"},{\"_key\":\"e91a51314a18\",\"_type\":\"span\",\"marks\":[\"u
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 125338 ===
+ght\":2000}},\"text\":[{\"_key\":\"df00bc9323d0\",\"_type\":\"block\",\"children\":[{\"_key\":\"11aeedb1b37c\",\"_type\":\"span\",\"marks\":[\"em\"],\"text\":\"to \"},{\"_key\":\"e91a51314a18\",\"_type\":\"span\",\"marks\":[\"uppercase\"],\"text\":\"sculpture.\"}],\"markDefs\":[],\"style\":\"normal\"}]}]}]}],\"$L14\",\"$L15\",\"$L16\",\"$L17\",\"$L18\",\"$L19\"]\n"])</script><script>self.__next_f.push([1,"1a:I[416358,[\"/_next/static/chunks/0hk_b7xgkd4m6.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 141369 ===
+an\",\"marks\":[\"em\"],\"text\":\"You wear your gown once, then itÆs tucked away for years. It deserves to be appreciated forever.\"},{\"_key\":\"fc23c0cd474b\",\"_type\":\"span\",\"marks\":[],\"text\":\"\\nVero transforms your dress into a lasting sculpture, created through a balance of advanced technology and hand craftsmanship so that we can preserve every detail. Every commission begins with a private consultation. Together, we'll discuss your commission, coordinate the collection of your gown, and 
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 145917 ===
+ercase\"],\"text\":\" GALLERY\"}],\"markDefs\":[],\"style\":\"normal\"}]},\"items\":[{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/a43a60914f1f76d948a2cf72a4c0e4759efda568-1104x1424.png\",\"alt\":\"Vero wedding gown sculpture displayed as decorative art in a luxury home interior.\",\"width\":1104,\"height\":1424},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/798a2bae31abaa22aea57f8271e2e5aa34922192
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 146216 ===
+ home interior.\",\"width\":1104,\"height\":1424},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/798a2bae31abaa22aea57f8271e2e5aa34922192-2048x2048.jpg\",\"alt\":\"Wedding gown sculpture displayed as decorative art in a powder room with floral wallpaper, brass fixtures, and a marble sink.\",\"width\":2048,\"height\":2048},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/pro
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 146563 ===
+ a marble sink.\",\"width\":2048,\"height\":2048},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/8d0d9c1168d88f934e97c750e95132558ebfb87e-1086x1448.png\",\"alt\":\"Wedding gown sculpture displayed as decorative art in a powder room with floral wallpaper, brass fixtures, and a marble sink.\",\"width\":1086,\"height\":1448},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/pro
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 146916 ===
+ble sink.\",\"width\":1086,\"height\":1448},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/bf1d31c49733d5cbb2153d3de56e842d333e76c7-1106x1422.png\",\"alt\":\"White wedding gown sculpture displayed on a fluted cabinet beneath a large framed artwork.\",\"width\":1106,\"height\":1422},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/082bf91549fedb9a30fa95d86d85384d3
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 147228 ===
+ artwork.\",\"width\":1106,\"height\":1422},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/082bf91549fedb9a30fa95d86d85384d3a4e600d-1086x1448.png\",\"alt\":\"White wedding gown sculpture displayed on a wooden grand piano beside a table lamp and framed paintings.\",\"width\":1086,\"height\":1448},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/2974f2ef35e6f185f74
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 147554 ===
+aintings.\",\"width\":1086,\"height\":1448},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/2974f2ef35e6f185f74b5acc2324293e36282896-1086x1448.png\",\"alt\":\"White wedding gown sculpture displayed on an antique wooden desk beneath a decorative wall sculpture.\",\"width\":1086,\"height\":1448},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/a164ad83f438edad6a8078
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 147626 ===
+ate\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/2974f2ef35e6f185f74b5acc2324293e36282896-1086x1448.png\",\"alt\":\"White wedding gown sculpture displayed on an antique wooden desk beneath a decorative wall sculpture.\",\"width\":1086,\"height\":1448},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/a164ad83f438edad6a80782f267f5ff9bbad0171-11648x8736.jpg\",\"alt\":\"Close-up of a white weddin
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 147892 ===
+idth\":1086,\"height\":1448},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/a164ad83f438edad6a80782f267f5ff9bbad0171-11648x8736.jpg\",\"alt\":\"Close-up of a white wedding gown sculpture highlighting lace detailing, tailored seams, and sculptural form.\",\"width\":11648,\"height\":8736},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/32b29f4de18b32b265cba35e146d
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 148846 ===
+ftsmanship.\",\"width\":380,\"height\":476},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/d3147de90a98903ffcbd989fda53fae93adfa493-1600x1200.png\",\"alt\":\"White wedding gown sculpture displayed on a bookshelf among books, decorative objects, and framed artwork.\",\"width\":1600,\"height\":1200},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/211ce02e68c79c9a5
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 149174 ===
+ artwork.\",\"width\":1600,\"height\":1200},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/211ce02e68c79c9a5713bdd9cb99826705404f7e-4096x4096.jpg\",\"alt\":\"White wedding gown sculpture displayed on a dark console table beneath a large painting in a residential interior.\",\"width\":4096,\"height\":4096},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/216ce1ffd
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 149521 ===
+,\"width\":4096,\"height\":4096},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/216ce1ffd8f0a1310a51e133399c446e45770882-536x761.png\",\"alt\":\"Close-up detail of a white gown sculpture showing gathered fabric and sculptural folds.\",\"width\":536,\"height\":761},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/96e802cc816cd4c4727437ca0fc290f7ac7b20b9-1200x1600.
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 149815 ===
+ural folds.\",\"width\":536,\"height\":761},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/96e802cc816cd4c4727437ca0fc290f7ac7b20b9-1200x1600.png\",\"alt\":\"White wedding gown sculpture displayed on an antique wooden cabinet between tall windows in a residential interior.\",\"width\":1200,\"height\":1600},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/e8283805
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 150156 ===
+rior.\",\"width\":1200,\"height\":1600},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/e828380577a3147ff6c0043c34b39cf1e0136fa4-941x1671.png\",\"alt\":\"Five white wedding gown sculptures displayed on a fireplace mantel below a framed painting.\",\"width\":941,\"height\":1671},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/b329916218a4bc7310036b5fd51c50f18a0d90
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 150478 ===
+width\":941,\"height\":1671},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/b329916218a4bc7310036b5fd51c50f18a0d90a7-8736x11648.jpg\",\"alt\":\"Close-up of a white wedding gown sculpture showing a fitted bodice, textured fabric detailing, and flowing skirt.\",\"width\":8736,\"height\":11648},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/90bee3144ce4ddc9b4f4e25
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 150815 ===
+dth\":8736,\"height\":11648},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/90bee3144ce4ddc9b4f4e25919ee86a802d183e8-11648x8736.jpg\",\"alt\":\"Close-up of a white wedding gown sculpture highlighting draped fabric folds, gathered detailing, and surface texture.\",\"width\":11648,\"height\":8736},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/c99747c6a059222b29a
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 151141 ===
+texture.\",\"width\":11648,\"height\":8736},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/c99747c6a059222b29a742ff32a94de9483e3a5b-1086x1448.png\",\"alt\":\"White wedding gown sculpture displayed beside a vase of pink flowers on a stone countertop in a residential interior.\",\"width\":1086,\"height\":1448},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/726cf9
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 151480 ===
+interior.\",\"width\":1086,\"height\":1448},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/726cf9b8f1e3b8d7f5f8786762370caa2c45718a-1200x1600.png\",\"alt\":\"White wedding gown sculpture displayed on a silver bar cart beside decorative glassware in a residential interior.\",\"width\":1200,\"height\":1600},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/0dcffa7dc
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 151816 ===
+interior.\",\"width\":1200,\"height\":1600},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/0dcffa7dcc40128972307e55671621be813b15ed-2048x2048.jpg\",\"alt\":\"White wedding gown sculpture displayed on a stone mantel beside a framed painting in a residential interior.\",\"width\":2048,\"height\":2048},\"description\":\"Vero\",\"date\":null},{\"media\":{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/5e3d8d25ae72ee5
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 154167 ===
+e\":\"normal\"}]}]}]]}]}]}]\n8:null\n"])</script><script>self.__next_f.push([1,"d:[[\"$\",\"title\",\"0\",{\"children\":\"Vero\"}],[\"$\",\"meta\",\"1\",{\"name\":\"description\",\"content\":\"Vero is a luxury fine-art studio creating museum-quality sculptures that capture every detail.\"}],[\"$\",\"meta\",\"2\",{\"name\":\"application-name\",\"content\":\"VERO\"}],[\"$\",\"link\",\"3\",{\"rel\":\"canonical\",\"href\":\"https://verostudio.com\"}],[\"$\",\"meta\",\"4\",{\"property\":\"og:title\",\"content
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 154566 ===
+\"canonical\",\"href\":\"https://verostudio.com\"}],[\"$\",\"meta\",\"4\",{\"property\":\"og:title\",\"content\":\"Vero\"}],[\"$\",\"meta\",\"5\",{\"property\":\"og:description\",\"content\":\"Vero is a luxury fine-art studio creating museum-quality sculptures that capture every detail.\"}],[\"$\",\"meta\",\"6\",{\"property\":\"og:url\",\"content\":\"https://verostudio.com\"}],[\"$\",\"meta\",\"7\",{\"property\":\"og:site_name\",\"content\":\"VERO\"}],[\"$\",\"meta\",\"8\",{\"property\":\"og:locale\",\"c
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 155641 ===
+er:card\",\"content\":\"summary_large_image\"}],[\"$\",\"meta\",\"15\",{\"name\":\"twitter:title\",\"content\":\"Vero\"}],[\"$\",\"meta\",\"16\",{\"name\":\"twitter:description\",\"content\":\"Vero is a luxury fine-art studio creating museum-quality sculptures that capture every detail.\"}],[\"$\",\"meta\",\"17\",{\"name\":\"twitter:image\",\"content\":\"/sanity-cdn/images/xei5vqg0/production/8e3034304dca200363d214d56484cafa014a2326-20604x11590.jpg?w=1200\u0026h=630\u0026fit=crop\"}]]\n"])</script><scrip
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 159331 ===
+tps://verostudio.com\\\",\\\"email\\\":\\\"advisory@verostudio.com\\\",\\\"logo\\\":\\\"https://verostudio.com/android-chrome-512x512.png\\\",\\\"description\\\":\\\"Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.\\\",\\\"address\\\":{\\\"@type\\\":\\\"PostalAddress\\\",\\\"streetAddress\\\":\\\"56 Bogart St, Unit 203\\\",\\\"addressLocality\\\":\\\"New York\\\",\\\"addressRegion\\\":\\\"NY\\\",\\\"postalCode\\\":\\\"11206\\\",\\\"addressCountry\\\":\\\"US\\
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 160003 ===
+\\\":\\\"WebSite\\\",\\\"@id\\\":\\\"https://verostudio.com/#website\\\",\\\"name\\\":\\\"VERO\\\",\\\"url\\\":\\\"https://verostudio.com\\\",\\\"description\\\":\\\"Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.\\\",\\\"inLanguage\\\":\\\"en-US\\\",\\\"publisher\\\":{\\\"@id\\\":\\\"https://verostudio.com/#organization\\\"}}\"}}],[\"$\",\"link\",null,{\"rel\":\"preload\",\"href\":\"fonts/LouizeDisplay.woff2\",\"as\":\"font\",\"type\":\"font/woff2\",\"cross
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 166755 ===
+\",\"label\":\"Your Vero journey begins here.\",\"image\":\"Product Image\",\"lead_time\":\"Ready in 12û16 weeks\",\"details\":{\"subtotal\":\"Subtotal\",\"tax\":\"Tax\",\"shipping\":\"Shipping\",\"total\":\"Total\"}},\"images\":{\"a_line\":\"A-line sculpture preview\",\"column\":\"Column sculpture preview\",\"ballgown\":\"Ballgown sculpture preview\"}},\"titles\":{\"process\":\"The Vero Process\",\"informations\":\"Contact \u0026 Delivery Details:\",\"details\":\"Your Gown \u0026 Commission:\",\"payment
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 166795 ===
+here.\",\"image\":\"Product Image\",\"lead_time\":\"Ready in 12û16 weeks\",\"details\":{\"subtotal\":\"Subtotal\",\"tax\":\"Tax\",\"shipping\":\"Shipping\",\"total\":\"Total\"}},\"images\":{\"a_line\":\"A-line sculpture preview\",\"column\":\"Column sculpture preview\",\"ballgown\":\"Ballgown sculpture preview\"}},\"titles\":{\"process\":\"The Vero Process\",\"informations\":\"Contact \u0026 Delivery Details:\",\"details\":\"Your Gown \u0026 Commission:\",\"payment\":\"Payment:\"},\"steps\":{\"process\":
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 166839 ===
+ime\":\"Ready in 12û16 weeks\",\"details\":{\"subtotal\":\"Subtotal\",\"tax\":\"Tax\",\"shipping\":\"Shipping\",\"total\":\"Total\"}},\"images\":{\"a_line\":\"A-line sculpture preview\",\"column\":\"Column sculpture preview\",\"ballgown\":\"Ballgown sculpture preview\"}},\"titles\":{\"process\":\"The Vero Process\",\"informations\":\"Contact \u0026 Delivery Details:\",\"details\":\"Your Gown \u0026 Commission:\",\"payment\":\"Payment:\"},\"steps\":{\"process\":{\"submit\":\"Next step\"},\"informations\":
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 167127 ===
+ocess\":\"The Vero Process\",\"informations\":\"Contact \u0026 Delivery Details:\",\"details\":\"Your Gown \u0026 Commission:\",\"payment\":\"Payment:\"},\"steps\":{\"process\":{\"submit\":\"Next step\"},\"informations\":{\"fieldset\":{\"address\":\"Sculpture delivery address\"},\"fields\":{\"fullname\":{\"label\":\"Full name\",\"placeholder\":\"Eloise Wehner\"},\"email\":{\"label\":\"Email address\",\"placeholder\":\"eloisewehner@gmail.com\"},\"phone\":{\"label\":\"Phone number\",\"country_label\":\"Cou
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 167475 ===
+Eloise Wehner\"},\"email\":{\"label\":\"Email address\",\"placeholder\":\"eloisewehner@gmail.com\"},\"phone\":{\"label\":\"Phone number\",\"country_label\":\"Country code\",\"placeholder\":\"(201) 555-0123\"},\"shipping_address_line_1\":{\"label\":\"Sculpture delivery address\",\"placeholder\":\"101 E Sunrise Hwy\"},\"shipping_address_line_2\":{\"label\":\"Sculpture delivery address (line 2)\",\"placeholder\":\"\"},\"address_line_1\":{\"label\":\"Address\",\"placeholder\":\"101 E Sunrise Hwy\"},\"address
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 167584 ===
+:{\"label\":\"Phone number\",\"country_label\":\"Country code\",\"placeholder\":\"(201) 555-0123\"},\"shipping_address_line_1\":{\"label\":\"Sculpture delivery address\",\"placeholder\":\"101 E Sunrise Hwy\"},\"shipping_address_line_2\":{\"label\":\"Sculpture delivery address (line 2)\",\"placeholder\":\"\"},\"address_line_1\":{\"label\":\"Address\",\"placeholder\":\"101 E Sunrise Hwy\"},\"address_line_2\":{\"label\":\"Address (line 2)\",\"placeholder\":\"\"},\"country_code\":{\"label\":\"Country\",\"pla
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 169065 ===
+\"},\"recipient_name\":{\"label\":\"Who is this commission for?\",\"placeholder\":\"First \u0026 Last name\"},\"upload\":{\"label\":\"Photo in dress:\",\"filled\":\"File uploaded (Select to change)\",\"empty\":\"Upload\",\"legend\":\"(optional)\"},\"sculpture_height\":{\"label\":\"Select your sculpture size\",\"accessibility\":\"Select the sculpture height\",\"options\":{\"scale_1\":\"Scale I (9-11\\\")\",\"scale_2\":\"Scale II (13-15\\\")\"}},\"base\":{\"label\":\"Display style:\",\"accessibility\":\"Se
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 169109 ===
+his commission for?\",\"placeholder\":\"First \u0026 Last name\"},\"upload\":{\"label\":\"Photo in dress:\",\"filled\":\"File uploaded (Select to change)\",\"empty\":\"Upload\",\"legend\":\"(optional)\"},\"sculpture_height\":{\"label\":\"Select your sculpture size\",\"accessibility\":\"Select the sculpture height\",\"options\":{\"scale_1\":\"Scale I (9-11\\\")\",\"scale_2\":\"Scale II (13-15\\\")\"}},\"base\":{\"label\":\"Display style:\",\"accessibility\":\"Select how you would like your piece to live\"
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 169157 ===
+0026 Last name\"},\"upload\":{\"label\":\"Photo in dress:\",\"filled\":\"File uploaded (Select to change)\",\"empty\":\"Upload\",\"legend\":\"(optional)\"},\"sculpture_height\":{\"label\":\"Select your sculpture size\",\"accessibility\":\"Select the sculpture height\",\"options\":{\"scale_1\":\"Scale I (9-11\\\")\",\"scale_2\":\"Scale II (13-15\\\")\"}},\"base\":{\"label\":\"Display style:\",\"accessibility\":\"Select how you would like your piece to live\",\"options\":{\"free_standing\":\"Free-standing\
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 171374 ===
+\"Your piece arrives ready to display, with care information enclosed.\"}],\"support\":\"Questions in the meantime? Email the studio at\"}},\"product\":{\"hero\":{\"drag\":\"Drag around\"},\"details\":{\"style\":{\"label\":\"Select the style for the sculpture\",\"options\":{\"a_line\":\"A-line\",\"column\":\"Column\",\"ballgown\":\"Ballgown\"}},\"add_to_cart\":{\"button\":\"Start your Commission\"},\"reassurance\":{\"made_to_order\":\"Made to order in our New York studio\",\"lead_time\":\"Sculptures crea
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 171618 ===
+r the sculpture\",\"options\":{\"a_line\":\"A-line\",\"column\":\"Column\",\"ballgown\":\"Ballgown\"}},\"add_to_cart\":{\"button\":\"Start your Commission\"},\"reassurance\":{\"made_to_order\":\"Made to order in our New York studio\",\"lead_time\":\"Sculptures created in 12û16 weeks\",\"secure_checkout\":\"Insured, prepaid wedding dress shipping label sent after checkout is complete\"}},\"registry_cta\":\"Add Vero to your registry\"},\"registry\":{\"metadata\":{\"title\":\"Add to your wedding registry\",
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 171906 ===
+secure_checkout\":\"Insured, prepaid wedding dress shipping label sent after checkout is complete\"}},\"registry_cta\":\"Add Vero to your registry\"},\"registry\":{\"metadata\":{\"title\":\"Add to your wedding registry\",\"description\":\"Add a Vero sculpture to your wedding registry. Most registries let you add a gift from any store, including The Knot, Zola, and Over The Moon.\"},\"title\":\"Add Vero to your wedding registry\",\"description\":\"A Vero sculpture will become the most meaningful gift on y
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 172114 ===
+g registry\",\"description\":\"Add a Vero sculpture to your wedding registry. Most registries let you add a gift from any store, including The Knot, Zola, and Over The Moon.\"},\"title\":\"Add Vero to your wedding registry\",\"description\":\"A Vero sculpture will become the most meaningful gift on your wedding registry.\",\"intro\":\"Unlike traditional registry gifts, a Vero sculpture is entirely unique to you. Your commissioned sculpture will transform your wedding day into a lasting work of art for yo
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 172243 ===
+including The Knot, Zola, and Over The Moon.\"},\"title\":\"Add Vero to your wedding registry\",\"description\":\"A Vero sculpture will become the most meaningful gift on your wedding registry.\",\"intro\":\"Unlike traditional registry gifts, a Vero sculpture is entirely unique to you. Your commissioned sculpture will transform your wedding day into a lasting work of art for your home.\",\"platforms_lead\":\"Below is a brief overview of how to add Vero to some of the most popular wedding registries.\",\"
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 172298 ===
+\":\"Add Vero to your wedding registry\",\"description\":\"A Vero sculpture will become the most meaningful gift on your wedding registry.\",\"intro\":\"Unlike traditional registry gifts, a Vero sculpture is entirely unique to you. Your commissioned sculpture will transform your wedding day into a lasting work of art for your home.\",\"platforms_lead\":\"Below is a brief overview of how to add Vero to some of the most popular wedding registries.\",\"platforms\":{\"the_knot\":{\"name\":\"The Knot\",\"desc
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | SCULPTURE @ 181040 ===
+:\" \"},{\"_key\":\"7c9ef7235079\",\"_type\":\"span\",\"marks\":[\"em\"],\"text\":\"to a\"},{\"_key\":\"1ee77cec8c68\",\"_type\":\"span\",\"marks\":[],\"text\":\" \"},{\"_key\":\"4800830a39f8\",\"_type\":\"span\",\"marks\":[\"uppercase\"],\"text\":\"sculpture\"},{\"_key\":\"e6a98fc94375\",\"_type\":\"span\",\"marks\":[],\"text\":\" \"},{\"_key\":\"748399cf19c7\",\"_type\":\"span\",\"marks\":[\"em\"],\"text\":\"advisor\"}],\"markDefs\":[],\"style\":\"normal\"}]}},\"primary\":[{\"href\":\"/\",\"children\":
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 6365 ===
+rganization","name":"VERO","legalName":"Vero Studio LLC","url":"https://verostudio.com","email":"advisory@verostudio.com","logo":"https://verostudio.com/android-chrome-512x512.png","description":"Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.","address":{"@type":"PostalAddress","streetAddress":"56 Bogart St, Unit 203","addressLocality":"New York","addressRegion":"NY","postalCode":"11206","addressCountry":"US"}}</script><script type="application/ld+json">{"@cont
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 6826 ===
+}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://verostudio.com/#website","name":"VERO","url":"https://verostudio.com","description":"Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.","inLanguage":"en-US","publisher":{"@id":"https://verostudio.com/#organization"}}</script><meta name="sentry-trace" content="765847109097de874c5eeb556f09e167-5b00c771a5353f4e-1"/><meta name="baggage" content="sentry-enviro
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 17917 ===
+/div><div class="MainHero-module-scss-module__yRwbjq__logo" style="visibility:hidden"></div><div class="MainHero-module-scss-module__yRwbjq__title"><h1><em>Custom</em> <span class="uppercase">sculpture</span> <em>of your</em> <span class="uppercase">wedding dress.</span></h1></div><div class="ScrollCue-module-scss-module__UbqG-W__ScrollCue MainHero-module-scss-module__yRwbjq__scrollCue" aria-hidden="true"><svg role="presentation" aria-hidden="true" focusable="false" class="ScrollCue-module-scss-module__UbqG-
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 19710 ===
+><div class="DressDiscover-module-scss-module__6gNPWa__pois"></div></div><div class="DressDiscover-module-scss-module__6gNPWa__content"><h2 class="DressDiscover-module-scss-module__6gNPWa__title">Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.</h2><div class="DressDiscover-module-scss-module__6gNPWa__description"><p>Each Vero sculpture stands approximately 15 inches tall, weighs 5û10 pounds, and has the presence of ceramic. Our sculptures are crafted through a b
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 40271 ===
+ule-scss-module__Q517BW__container"><div class="Diptych-module-scss-module__Q517BW__sections"><div class="DiptychStickyMedia-module-scss-module__EHxV2W__DiptychStickyMedia"><div class="DiptychStickyMedia-module-scss-module__EHxV2W__sticky"><img alt="Wedding Dress" loading="lazy" width="1658" height="1926" decoding="async" data-nimg="1" class="DiptychStickyMedia-module-scss-module__EHxV2W__media" style="color:transparent" sizes="50.00vw, (min-width: 930px) 100.00vw" srcSet="/sanity-cdn/images/xei5vqg0/product
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 43211 ===
+x-module-scss-module__yFfC6G__orientation-vertical Parallax-module-scss-module__yFfC6G__direction-natural" style="--parallax-range:80;--parallax-height:0.00;--parallax-width:0.00"><div class="Parallax-module-scss-module__yFfC6G__container"><img alt="Wedding dress" loading="lazy" width="800" height="670" decoding="async" data-nimg="1" class="DiptychDoubleMaskMedia-module-scss-module__kR_fgq__media" style="color:transparent" sizes="50.00vw, (min-width: 930px) 100.00vw" srcSet="/sanity-cdn/images/xei5vqg0/produ
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 45896 ===
+x-module-scss-module__yFfC6G__orientation-vertical Parallax-module-scss-module__yFfC6G__direction-natural" style="--parallax-range:60;--parallax-height:0.00;--parallax-width:0.00"><div class="Parallax-module-scss-module__yFfC6G__container"><img alt="Wedding dress" loading="lazy" width="814" height="1120" decoding="async" data-nimg="1" class="DiptychDoubleMaskMedia-module-scss-module__kR_fgq__media" style="color:transparent" sizes="50.00vw, (min-width: 930px) 100.00vw" srcSet="/sanity-cdn/images/xei5vqg0/prod
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 49645 ===
+-module-scss-module__yFfC6G__orientation-vertical Parallax-module-scss-module__yFfC6G__direction-natural" style="--parallax-range:100;--parallax-height:0.00;--parallax-width:0.00"><div class="Parallax-module-scss-module__yFfC6G__container"><img alt="Wedding dress" loading="lazy" width="346" height="476" decoding="async" data-nimg="1" class="Media-module-scss-module__lFYlva__desktop DiptychSingleMaskMedia-module-scss-module__fWJNQW__media" style="color:transparent" sizes="560.00px" srcSet="/sanity-cdn/images/
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 51967 ===
+5vqg0/production/597b9a1b9c489ca52c96323795934d92eeab636c-346x476.png?w=3840&amp;q=90&amp;auto=format 3840w" src="/sanity-cdn/images/xei5vqg0/production/597b9a1b9c489ca52c96323795934d92eeab636c-346x476.png?w=3840&amp;q=90&amp;auto=format"/><img alt="Wedding dress" loading="lazy" width="1416" height="2000" decoding="async" data-nimg="1" class="Media-module-scss-module__lFYlva__mobile DiptychSingleMaskMedia-module-scss-module__fWJNQW__media" style="color:transparent" sizes="560.00px" srcSet="/sanity-cdn/images
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 55621 ===
+x-module-scss-module__yFfC6G__orientation-vertical Parallax-module-scss-module__yFfC6G__direction-natural" style="--parallax-range:80;--parallax-height:0.00;--parallax-width:0.00"><div class="Parallax-module-scss-module__yFfC6G__container"><img alt="Wedding dress" loading="lazy" width="800" height="660" decoding="async" data-nimg="1" class="DiptychDoubleMaskMedia-module-scss-module__kR_fgq__media" style="color:transparent" sizes="50.00vw, (min-width: 930px) 100.00vw" srcSet="/sanity-cdn/images/xei5vqg0/produ
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 58306 ===
+x-module-scss-module__yFfC6G__orientation-vertical Parallax-module-scss-module__yFfC6G__direction-natural" style="--parallax-range:60;--parallax-height:0.00;--parallax-width:0.00"><div class="Parallax-module-scss-module__yFfC6G__container"><img alt="Wedding dress" loading="lazy" width="814" height="1120" decoding="async" data-nimg="1" class="DiptychDoubleMaskMedia-module-scss-module__kR_fgq__media" style="color:transparent" sizes="50.00vw, (min-width: 930px) 100.00vw" srcSet="/sanity-cdn/images/xei5vqg0/prod
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 119279 ===
+ \"},{\"_key\":\"a6ba24279cbc\",\"_type\":\"span\",\"marks\":[\"em\"],\"text\":\"of your\"},{\"_key\":\"5f008798f606\",\"_type\":\"span\",\"marks\":[],\"text\":\" \"},{\"_key\":\"0dc3107eefe4\",\"_type\":\"span\",\"marks\":[\"uppercase\"],\"text\":\"wedding dress.\"}],\"markDefs\":[],\"style\":\"h1\"}],\"media\":{\"type\":\"video\",\"fallback\":{\"src\":\"/sanity-cdn/images/xei5vqg0/production/fe9dfb2b06f0b04fa45dc0ebd925dc3b39517dc5-1728x1001.jpg\",\"alt\":\"Wedding dress\",\"width\":1728,\"height\":1001},\
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 119493 ===
+"marks\":[\"uppercase\"],\"text\":\"wedding dress.\"}],\"markDefs\":[],\"style\":\"h1\"}],\"media\":{\"type\":\"video\",\"fallback\":{\"src\":\"/sanity-cdn/images/xei5vqg0/production/fe9dfb2b06f0b04fa45dc0ebd925dc3b39517dc5-1728x1001.jpg\",\"alt\":\"Wedding dress\",\"width\":1728,\"height\":1001},\"desktop\":{\"src\":\"/sanity-cdn/files/xei5vqg0/production/bea646a70445ada4b773c2621bc82183bbb837d6.mp4\",\"aria-label\":\"Vero dress video introduction\"},\"mobile\":{\"src\":\"/sanity-cdn/files/xei5vqg0/producti
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 120760 ===
+":[\"uppercase\"],\"text\":\"DESERVES TO  \\nlast  \"},{\"_key\":\"f0488eb20e7e\",\"_type\":\"span\",\"marks\":[\"em\"],\"text\":\"forever.\"}],\"markDefs\":[],\"style\":\"normal\"}]],\"title\":\"Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.\",\"description\":[{\"_key\":\"b4041a00987f\",\"_type\":\"block\",\"children\":[{\"_key\":\"5bfcb69740b6\",\"_type\":\"span\",\"marks\":[],\"text\":\"Each Vero sculpture stands approximately 15 inches tall, weighs 5û10 pou
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 140243 ===
+ky\",\"children\":[\"$\",\"$L1d\",null,{\"ref\":\"$undefined\",\"className\":\"DiptychStickyMedia-module-scss-module__EHxV2W__media\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/47390300c18860bb900a2917240973e7b33110f0-1658x1926.png\",\"alt\":\"Wedding Dress\",\"fill\":\"$undefined\",\"preload\":false,\"width\":1658,\"height\":1926,\"style\":{},\"sizes\":[{\"size\":\"50vw\"},{\"size\":\"100vw\",\"breakpoint\":\"930px\"}]}]}]}]]}],[\"$\",\"div\",null,{\"className\":\"Diptych-module-scss-module__Q517BW__s
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 140699 ===
+ll,{\"className\":\"Diptych-module-scss-module__Q517BW__sections\",\"children\":[[\"$\",\"$L1e\",\"0\",{\"medias\":[{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/b3b607284914f093fff0c6656892ff078ab7427a-800x670.png\",\"alt\":\"Wedding dress\",\"width\":800,\"height\":670},{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/042f1a38d440362b5028b2c08b587898242a650a-814x1120.png\",\"alt\":\"Wedding dress\",\"width\":814,\"height\":1120}]}],[\"$\",\"$L1f\",\"1\",{\"title\"
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 140880 ===
+ion/b3b607284914f093fff0c6656892ff078ab7427a-800x670.png\",\"alt\":\"Wedding dress\",\"width\":800,\"height\":670},{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/042f1a38d440362b5028b2c08b587898242a650a-814x1120.png\",\"alt\":\"Wedding dress\",\"width\":814,\"height\":1120}]}],[\"$\",\"$L1f\",\"1\",{\"title\":\"Worn once. \\nNever meant to disappear.\",\"text\":[{\"_key\":\"e1de6f807763\",\"_type\":\"block\",\"children\":[{\"_key\":\"6cafb76f2bc6\",\"_type\":\"span\",\"marks\":[\"em\"],
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 141917 ===
+ of the Vero experience.\"}],\"markDefs\":[],\"style\":\"normal\"}]}],[\"$\",\"$L20\",\"2\",{\"media\":{\"type\":\"image\",\"desktop\":{\"src\":\"/sanity-cdn/images/xei5vqg0/production/597b9a1b9c489ca52c96323795934d92eeab636c-346x476.png\",\"alt\":\"Wedding dress\",\"width\":346,\"height\":476},\"mobile\":{\"src\":\"/sanity-cdn/images/xei5vqg0/production/506b316b2e93b2df03dbff106a6e92c634a37926-1416x2000.jpg\",\"alt\":\"Wedding dress\",\"width\":1416,\"height\":2000}}}],[\"$\",\"div\",\"3\",{\"className\":\"
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 142091 ===
+production/597b9a1b9c489ca52c96323795934d92eeab636c-346x476.png\",\"alt\":\"Wedding dress\",\"width\":346,\"height\":476},\"mobile\":{\"src\":\"/sanity-cdn/images/xei5vqg0/production/506b316b2e93b2df03dbff106a6e92c634a37926-1416x2000.jpg\",\"alt\":\"Wedding dress\",\"width\":1416,\"height\":2000}}}],[\"$\",\"div\",\"3\",{\"className\":\"DiptychButton-module-scss-module__05xeKW__DiptychButton\",\"children\":[\"$\",\"$L21\",null,{\"theme\":\"plain\",\"className\":\"DiptychButton-module-scss-module__05xeKW__but
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 142980 ===
+uppercase\"],\"text\":\"process\"}],\"markDefs\":[],\"style\":\"normal\"}]}]}]}],[\"$\",\"$L1e\",\"4\",{\"medias\":[{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/42de2234b2f357fcb7e1c2cebbe68a21fef5556c-800x660.png\",\"alt\":\"Wedding dress\",\"width\":800,\"height\":660},{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/99a443e367fa310be12b24ac9df09078e8f2eb71-814x1120.png\",\"alt\":\"Wedding dress\",\"width\":814,\"height\":1120}]}],[\"$\",\"$L1f\",\"5\",{\"title\"
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 143161 ===
+ion/42de2234b2f357fcb7e1c2cebbe68a21fef5556c-800x660.png\",\"alt\":\"Wedding dress\",\"width\":800,\"height\":660},{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/99a443e367fa310be12b24ac9df09078e8f2eb71-814x1120.png\",\"alt\":\"Wedding dress\",\"width\":814,\"height\":1120}]}],[\"$\",\"$L1f\",\"5\",{\"title\":\"ôTechnology often pulls us away from whatÆs real. \\n\\nVero does the opposite - we use it to bring memory back to physical form.\\\"\",\"text\":[{\"_key\":\"133ebe7adc27\",\"_ty
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 159301 ===
+dio LLC\\\",\\\"url\\\":\\\"https://verostudio.com\\\",\\\"email\\\":\\\"advisory@verostudio.com\\\",\\\"logo\\\":\\\"https://verostudio.com/android-chrome-512x512.png\\\",\\\"description\\\":\\\"Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.\\\",\\\"address\\\":{\\\"@type\\\":\\\"PostalAddress\\\",\\\"streetAddress\\\":\\\"56 Bogart St, Unit 203\\\",\\\"addressLocality\\\":\\\"New York\\\",\\\"addressRegion\\\":\\\"NY\\\",\\\"postalCode\\\":\\\"11206\\\",\\\"a
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 159973 ===
+tps://schema.org\\\",\\\"@type\\\":\\\"WebSite\\\",\\\"@id\\\":\\\"https://verostudio.com/#website\\\",\\\"name\\\":\\\"VERO\\\",\\\"url\\\":\\\"https://verostudio.com\\\",\\\"description\\\":\\\"Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.\\\",\\\"inLanguage\\\":\\\"en-US\\\",\\\"publisher\\\":{\\\"@id\\\":\\\"https://verostudio.com/#organization\\\"}}\"}}],[\"$\",\"link\",null,{\"rel\":\"preload\",\"href\":\"fonts/LouizeDisplay.woff2\",\"as\":\"font\",\"typ
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | WEDDING DRESS @ 171693 ===
+\"ballgown\":\"Ballgown\"}},\"add_to_cart\":{\"button\":\"Start your Commission\"},\"reassurance\":{\"made_to_order\":\"Made to order in our New York studio\",\"lead_time\":\"Sculptures created in 12û16 weeks\",\"secure_checkout\":\"Insured, prepaid wedding dress shipping label sent after checkout is complete\"}},\"registry_cta\":\"Add Vero to your registry\"},\"registry\":{\"metadata\":{\"title\":\"Add to your wedding registry\",\"description\":\"Add a Vero sculpture to your wedding registry. Most registrie
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 6365 ===
+rganization","name":"VERO","legalName":"Vero Studio LLC","url":"https://verostudio.com","email":"advisory@verostudio.com","logo":"https://verostudio.com/android-chrome-512x512.png","description":"Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.","address":{"@type":"PostalAddress","streetAddress":"56 Bogart St, Unit 203","addressLocality":"New York","addressRegion":"NY","postalCode":"11206","addressCountry":"US"}}</script><script type="application/ld+json">{"@cont
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 6826 ===
+}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://verostudio.com/#website","name":"VERO","url":"https://verostudio.com","description":"Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.","inLanguage":"en-US","publisher":{"@id":"https://verostudio.com/#organization"}}</script><meta name="sentry-trace" content="765847109097de874c5eeb556f09e167-5b00c771a5353f4e-1"/><meta name="baggage" content="sentry-enviro
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 17917 ===
+/div><div class="MainHero-module-scss-module__yRwbjq__logo" style="visibility:hidden"></div><div class="MainHero-module-scss-module__yRwbjq__title"><h1><em>Custom</em> <span class="uppercase">sculpture</span> <em>of your</em> <span class="uppercase">wedding dress.</span></h1></div><div class="ScrollCue-module-scss-module__UbqG-W__ScrollCue MainHero-module-scss-module__yRwbjq__scrollCue" aria-hidden="true"><svg role="presentation" aria-hidden="true" focusable="false" class="ScrollCue-module-scss-module__UbqG-
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 19710 ===
+><div class="DressDiscover-module-scss-module__6gNPWa__pois"></div></div><div class="DressDiscover-module-scss-module__6gNPWa__content"><h2 class="DressDiscover-module-scss-module__6gNPWa__title">Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.</h2><div class="DressDiscover-module-scss-module__6gNPWa__description"><p>Each Vero sculpture stands approximately 15 inches tall, weighs 5û10 pounds, and has the presence of ceramic. Our sculptures are crafted through a b
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 40271 ===
+ule-scss-module__Q517BW__container"><div class="Diptych-module-scss-module__Q517BW__sections"><div class="DiptychStickyMedia-module-scss-module__EHxV2W__DiptychStickyMedia"><div class="DiptychStickyMedia-module-scss-module__EHxV2W__sticky"><img alt="Wedding Dress" loading="lazy" width="1658" height="1926" decoding="async" data-nimg="1" class="DiptychStickyMedia-module-scss-module__EHxV2W__media" style="color:transparent" sizes="50.00vw, (min-width: 930px) 100.00vw" srcSet="/sanity-cdn/images/xei5vqg0/product
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 43211 ===
+x-module-scss-module__yFfC6G__orientation-vertical Parallax-module-scss-module__yFfC6G__direction-natural" style="--parallax-range:80;--parallax-height:0.00;--parallax-width:0.00"><div class="Parallax-module-scss-module__yFfC6G__container"><img alt="Wedding dress" loading="lazy" width="800" height="670" decoding="async" data-nimg="1" class="DiptychDoubleMaskMedia-module-scss-module__kR_fgq__media" style="color:transparent" sizes="50.00vw, (min-width: 930px) 100.00vw" srcSet="/sanity-cdn/images/xei5vqg0/produ
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 45896 ===
+x-module-scss-module__yFfC6G__orientation-vertical Parallax-module-scss-module__yFfC6G__direction-natural" style="--parallax-range:60;--parallax-height:0.00;--parallax-width:0.00"><div class="Parallax-module-scss-module__yFfC6G__container"><img alt="Wedding dress" loading="lazy" width="814" height="1120" decoding="async" data-nimg="1" class="DiptychDoubleMaskMedia-module-scss-module__kR_fgq__media" style="color:transparent" sizes="50.00vw, (min-width: 930px) 100.00vw" srcSet="/sanity-cdn/images/xei5vqg0/prod
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 49645 ===
+-module-scss-module__yFfC6G__orientation-vertical Parallax-module-scss-module__yFfC6G__direction-natural" style="--parallax-range:100;--parallax-height:0.00;--parallax-width:0.00"><div class="Parallax-module-scss-module__yFfC6G__container"><img alt="Wedding dress" loading="lazy" width="346" height="476" decoding="async" data-nimg="1" class="Media-module-scss-module__lFYlva__desktop DiptychSingleMaskMedia-module-scss-module__fWJNQW__media" style="color:transparent" sizes="560.00px" srcSet="/sanity-cdn/images/
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 51967 ===
+5vqg0/production/597b9a1b9c489ca52c96323795934d92eeab636c-346x476.png?w=3840&amp;q=90&amp;auto=format 3840w" src="/sanity-cdn/images/xei5vqg0/production/597b9a1b9c489ca52c96323795934d92eeab636c-346x476.png?w=3840&amp;q=90&amp;auto=format"/><img alt="Wedding dress" loading="lazy" width="1416" height="2000" decoding="async" data-nimg="1" class="Media-module-scss-module__lFYlva__mobile DiptychSingleMaskMedia-module-scss-module__fWJNQW__media" style="color:transparent" sizes="560.00px" srcSet="/sanity-cdn/images
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 55621 ===
+x-module-scss-module__yFfC6G__orientation-vertical Parallax-module-scss-module__yFfC6G__direction-natural" style="--parallax-range:80;--parallax-height:0.00;--parallax-width:0.00"><div class="Parallax-module-scss-module__yFfC6G__container"><img alt="Wedding dress" loading="lazy" width="800" height="660" decoding="async" data-nimg="1" class="DiptychDoubleMaskMedia-module-scss-module__kR_fgq__media" style="color:transparent" sizes="50.00vw, (min-width: 930px) 100.00vw" srcSet="/sanity-cdn/images/xei5vqg0/produ
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 58306 ===
+x-module-scss-module__yFfC6G__orientation-vertical Parallax-module-scss-module__yFfC6G__direction-natural" style="--parallax-range:60;--parallax-height:0.00;--parallax-width:0.00"><div class="Parallax-module-scss-module__yFfC6G__container"><img alt="Wedding dress" loading="lazy" width="814" height="1120" decoding="async" data-nimg="1" class="DiptychDoubleMaskMedia-module-scss-module__kR_fgq__media" style="color:transparent" sizes="50.00vw, (min-width: 930px) 100.00vw" srcSet="/sanity-cdn/images/xei5vqg0/prod
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 119279 ===
+ \"},{\"_key\":\"a6ba24279cbc\",\"_type\":\"span\",\"marks\":[\"em\"],\"text\":\"of your\"},{\"_key\":\"5f008798f606\",\"_type\":\"span\",\"marks\":[],\"text\":\" \"},{\"_key\":\"0dc3107eefe4\",\"_type\":\"span\",\"marks\":[\"uppercase\"],\"text\":\"wedding dress.\"}],\"markDefs\":[],\"style\":\"h1\"}],\"media\":{\"type\":\"video\",\"fallback\":{\"src\":\"/sanity-cdn/images/xei5vqg0/production/fe9dfb2b06f0b04fa45dc0ebd925dc3b39517dc5-1728x1001.jpg\",\"alt\":\"Wedding dress\",\"width\":1728,\"height\":1001},\
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 119493 ===
+"marks\":[\"uppercase\"],\"text\":\"wedding dress.\"}],\"markDefs\":[],\"style\":\"h1\"}],\"media\":{\"type\":\"video\",\"fallback\":{\"src\":\"/sanity-cdn/images/xei5vqg0/production/fe9dfb2b06f0b04fa45dc0ebd925dc3b39517dc5-1728x1001.jpg\",\"alt\":\"Wedding dress\",\"width\":1728,\"height\":1001},\"desktop\":{\"src\":\"/sanity-cdn/files/xei5vqg0/production/bea646a70445ada4b773c2621bc82183bbb837d6.mp4\",\"aria-label\":\"Vero dress video introduction\"},\"mobile\":{\"src\":\"/sanity-cdn/files/xei5vqg0/producti
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 120760 ===
+":[\"uppercase\"],\"text\":\"DESERVES TO  \\nlast  \"},{\"_key\":\"f0488eb20e7e\",\"_type\":\"span\",\"marks\":[\"em\"],\"text\":\"forever.\"}],\"markDefs\":[],\"style\":\"normal\"}]],\"title\":\"Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.\",\"description\":[{\"_key\":\"b4041a00987f\",\"_type\":\"block\",\"children\":[{\"_key\":\"5bfcb69740b6\",\"_type\":\"span\",\"marks\":[],\"text\":\"Each Vero sculpture stands approximately 15 inches tall, weighs 5û10 pou
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 140243 ===
+ky\",\"children\":[\"$\",\"$L1d\",null,{\"ref\":\"$undefined\",\"className\":\"DiptychStickyMedia-module-scss-module__EHxV2W__media\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/47390300c18860bb900a2917240973e7b33110f0-1658x1926.png\",\"alt\":\"Wedding Dress\",\"fill\":\"$undefined\",\"preload\":false,\"width\":1658,\"height\":1926,\"style\":{},\"sizes\":[{\"size\":\"50vw\"},{\"size\":\"100vw\",\"breakpoint\":\"930px\"}]}]}]}]]}],[\"$\",\"div\",null,{\"className\":\"Diptych-module-scss-module__Q517BW__s
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 140699 ===
+ll,{\"className\":\"Diptych-module-scss-module__Q517BW__sections\",\"children\":[[\"$\",\"$L1e\",\"0\",{\"medias\":[{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/b3b607284914f093fff0c6656892ff078ab7427a-800x670.png\",\"alt\":\"Wedding dress\",\"width\":800,\"height\":670},{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/042f1a38d440362b5028b2c08b587898242a650a-814x1120.png\",\"alt\":\"Wedding dress\",\"width\":814,\"height\":1120}]}],[\"$\",\"$L1f\",\"1\",{\"title\"
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 140880 ===
+ion/b3b607284914f093fff0c6656892ff078ab7427a-800x670.png\",\"alt\":\"Wedding dress\",\"width\":800,\"height\":670},{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/042f1a38d440362b5028b2c08b587898242a650a-814x1120.png\",\"alt\":\"Wedding dress\",\"width\":814,\"height\":1120}]}],[\"$\",\"$L1f\",\"1\",{\"title\":\"Worn once. \\nNever meant to disappear.\",\"text\":[{\"_key\":\"e1de6f807763\",\"_type\":\"block\",\"children\":[{\"_key\":\"6cafb76f2bc6\",\"_type\":\"span\",\"marks\":[\"em\"],
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 141917 ===
+ of the Vero experience.\"}],\"markDefs\":[],\"style\":\"normal\"}]}],[\"$\",\"$L20\",\"2\",{\"media\":{\"type\":\"image\",\"desktop\":{\"src\":\"/sanity-cdn/images/xei5vqg0/production/597b9a1b9c489ca52c96323795934d92eeab636c-346x476.png\",\"alt\":\"Wedding dress\",\"width\":346,\"height\":476},\"mobile\":{\"src\":\"/sanity-cdn/images/xei5vqg0/production/506b316b2e93b2df03dbff106a6e92c634a37926-1416x2000.jpg\",\"alt\":\"Wedding dress\",\"width\":1416,\"height\":2000}}}],[\"$\",\"div\",\"3\",{\"className\":\"
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 142091 ===
+production/597b9a1b9c489ca52c96323795934d92eeab636c-346x476.png\",\"alt\":\"Wedding dress\",\"width\":346,\"height\":476},\"mobile\":{\"src\":\"/sanity-cdn/images/xei5vqg0/production/506b316b2e93b2df03dbff106a6e92c634a37926-1416x2000.jpg\",\"alt\":\"Wedding dress\",\"width\":1416,\"height\":2000}}}],[\"$\",\"div\",\"3\",{\"className\":\"DiptychButton-module-scss-module__05xeKW__DiptychButton\",\"children\":[\"$\",\"$L21\",null,{\"theme\":\"plain\",\"className\":\"DiptychButton-module-scss-module__05xeKW__but
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 142980 ===
+uppercase\"],\"text\":\"process\"}],\"markDefs\":[],\"style\":\"normal\"}]}]}]}],[\"$\",\"$L1e\",\"4\",{\"medias\":[{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/42de2234b2f357fcb7e1c2cebbe68a21fef5556c-800x660.png\",\"alt\":\"Wedding dress\",\"width\":800,\"height\":660},{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/99a443e367fa310be12b24ac9df09078e8f2eb71-814x1120.png\",\"alt\":\"Wedding dress\",\"width\":814,\"height\":1120}]}],[\"$\",\"$L1f\",\"5\",{\"title\"
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 143161 ===
+ion/42de2234b2f357fcb7e1c2cebbe68a21fef5556c-800x660.png\",\"alt\":\"Wedding dress\",\"width\":800,\"height\":660},{\"type\":\"image\",\"src\":\"/sanity-cdn/images/xei5vqg0/production/99a443e367fa310be12b24ac9df09078e8f2eb71-814x1120.png\",\"alt\":\"Wedding dress\",\"width\":814,\"height\":1120}]}],[\"$\",\"$L1f\",\"5\",{\"title\":\"ôTechnology often pulls us away from whatÆs real. \\n\\nVero does the opposite - we use it to bring memory back to physical form.\\\"\",\"text\":[{\"_key\":\"133ebe7adc27\",\"_ty
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 159301 ===
+dio LLC\\\",\\\"url\\\":\\\"https://verostudio.com\\\",\\\"email\\\":\\\"advisory@verostudio.com\\\",\\\"logo\\\":\\\"https://verostudio.com/android-chrome-512x512.png\\\",\\\"description\\\":\\\"Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.\\\",\\\"address\\\":{\\\"@type\\\":\\\"PostalAddress\\\",\\\"streetAddress\\\":\\\"56 Bogart St, Unit 203\\\",\\\"addressLocality\\\":\\\"New York\\\",\\\"addressRegion\\\":\\\"NY\\\",\\\"postalCode\\\":\\\"11206\\\",\\\"a
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 159973 ===
+tps://schema.org\\\",\\\"@type\\\":\\\"WebSite\\\",\\\"@id\\\":\\\"https://verostudio.com/#website\\\",\\\"name\\\":\\\"VERO\\\",\\\"url\\\":\\\"https://verostudio.com\\\",\\\"description\\\":\\\"Vero is a luxury fine-art studio that transforms your wedding dress into a timeless sculpture.\\\",\\\"inLanguage\\\":\\\"en-US\\\",\\\"publisher\\\":{\\\"@id\\\":\\\"https://verostudio.com/#organization\\\"}}\"}}],[\"$\",\"link\",null,{\"rel\":\"preload\",\"href\":\"fonts/LouizeDisplay.woff2\",\"as\":\"font\",\"typ
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | wedding dress @ 171693 ===
+\"ballgown\":\"Ballgown\"}},\"add_to_cart\":{\"button\":\"Start your Commission\"},\"reassurance\":{\"made_to_order\":\"Made to order in our New York studio\",\"lead_time\":\"Sculptures created in 12û16 weeks\",\"secure_checkout\":\"Insured, prepaid wedding dress shipping label sent after checkout is complete\"}},\"registry_cta\":\"Add Vero to your registry\"},\"registry\":{\"metadata\":{\"title\":\"Add to your wedding registry\",\"description\":\"Add a Vero sculpture to your wedding registry. Most registrie
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | Custom @ 17823 ===
+odule-scss-module__yRwbjq__content"><div class="MainHero-module-scss-module__yRwbjq__beacon"></div><div class="MainHero-module-scss-module__yRwbjq__logo" style="visibility:hidden"></div><div class="MainHero-module-scss-module__yRwbjq__title"><h1><em>Custom</em> <span class="uppercase">sculpture</span> <em>of your</em> <span class="uppercase">wedding dress.</span></h1></div><div class="ScrollCue-module-scss-module__UbqG-W__ScrollCue MainHero-module-scss-module__yRwbjq__scrollCue" aria-hidden="true"><sv
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | Custom @ 118778 ===
+\"main-hero\",\"theme\":\"ultra-light\",\"locator\":\"$undefined\",\"children\":[\"$\",\"$L11\",null,{\"title\":[{\"_key\":\"d457c8aace50\",\"_type\":\"block\",\"children\":[{\"_key\":\"b6cf24f21ff2\",\"_type\":\"span\",\"marks\":[\"em\"],\"text\":\"Custom\"},{\"_key\":\"e53464162c3e\",\"_type\":\"span\",\"marks\":[],\"text\":\" \"},{\"_key\":\"ff837fbab42f\",\"_type\":\"span\",\"marks\":[\"uppercase\"],\"text\":\"sculpture\"},{\"_key\":\"39d7bef460ff\",\"_type\":\"span\",\"marks\":[],\"text\":\" \"},
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 3555 ===
+t><script src="/_next/static/chunks/0r5tos1dh~iwd.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy" async=""></script><script src="/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy" async=""></script><script src="/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy" async=""></script><script src="/_next/static/chunks/07yqe6s1w-tze.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy" async=""></script><link rel="preload" href="/_next/static/chunks/0eklt3ph0zxni.css?dpl=dpl_5DJLEf
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 112020 ===
+"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-2\",{\"src\":\"/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-3\",{\"src\":\"/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"async\":true,\"nonce\":\"$undefined\"}]],[\"$\",\"$L6\",null,{\"children\":[\"$\",\"$7\",null,{\"name\":\"Next.MetadataOutlet\",\"children\":\"$@8\"}]}]]}],{},null,false,null]},null,false,\"$@9\"]},nul
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 114902 ===
+tatic/chunks/0h~h~4-em9w7g.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0r5tos1dh~iwd.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"SectionContainer\"]\n11:I[402259,[\"/_next/static/chunks/0hk_b7xgkd4m6.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0tgsa3kk2ystz.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 116045 ===
+tatic/chunks/0h~h~4-em9w7g.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0r5tos1dh~iwd.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"MainHero\"]\n12:I[235288,[\"/_next/static/chunks/0hk_b7xgkd4m6.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0tgsa3kk2ystz.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 117180 ===
+tatic/chunks/0h~h~4-em9w7g.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0r5tos1dh~iwd.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"DressDiscover\"]\n13:I[468958,[\"/_next/static/chunks/0hk_b7xgkd4m6.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0tgsa3kk2ystz.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/st
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 118363 ===
+tatic/chunks/0h~h~4-em9w7g.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0r5tos1dh~iwd.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"FullSizeScrollerStepper\"]\n"])</script><script>self.__next_f.push([1,"5:[[\"$\",\"$L10\",\"0\",{\"type\":\"main-hero\",\"theme\":\"ultra-light\",\"locator\":\"$undefined\",\"children\":[\"$\",\"$L11\
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 126560 ===
+tatic/chunks/0h~h~4-em9w7g.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0r5tos1dh~iwd.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"SecondaryHero\"]\n1b:I[145882,[\"/_next/static/chunks/0hk_b7xgkd4m6.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0tgsa3kk2ystz.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/st
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 127700 ===
+tatic/chunks/0h~h~4-em9w7g.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0r5tos1dh~iwd.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"DiptychProvider\"]\n1c:I[594223,[\"/_next/static/chunks/0hk_b7xgkd4m6.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0tgsa3kk2ystz.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 128842 ===
+tatic/chunks/0h~h~4-em9w7g.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0r5tos1dh~iwd.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"Scroll\"]\n1d:I[456208,[\"/_next/static/chunks/0hk_b7xgkd4m6.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0tgsa3kk2ystz.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/ch
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 130018 ===
+tatic/chunks/0h~h~4-em9w7g.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0r5tos1dh~iwd.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"Image\"]\n1e:I[197776,[\"/_next/static/chunks/0hk_b7xgkd4m6.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0tgsa3kk2ystz.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chu
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 131150 ===
+tatic/chunks/0h~h~4-em9w7g.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0r5tos1dh~iwd.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"DiptychDoubleMaskMedia\"]\n1f:I[977997,[\"/_next/static/chunks/0hk_b7xgkd4m6.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0tgsa3kk2ystz.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 132299 ===
+tatic/chunks/0h~h~4-em9w7g.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0r5tos1dh~iwd.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"DiptychMainEdito\"]\n20:I[726695,[\"/_next/static/chunks/0hk_b7xgkd4m6.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0tgsa3kk2ystz.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 133442 ===
+tatic/chunks/0h~h~4-em9w7g.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0r5tos1dh~iwd.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"DiptychSingleMaskMedia\"]\n21:I[902163,[\"/_next/static/chunks/0hk_b7xgkd4m6.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0tgsa3kk2ystz.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 134634 ===
+tatic/chunks/0h~h~4-em9w7g.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0r5tos1dh~iwd.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"Button\"]\n22:I[893686,[\"/_next/static/chunks/0hk_b7xgkd4m6.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0tgsa3kk2ystz.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/ch
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 135767 ===
+tatic/chunks/0h~h~4-em9w7g.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0r5tos1dh~iwd.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"ButtonAnimatedRichText\"]\n23:I[423140,[\"/_next/static/chunks/0hk_b7xgkd4m6.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0tgsa3kk2ystz.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 136916 ===
+tatic/chunks/0h~h~4-em9w7g.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0r5tos1dh~iwd.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"MediaGridPush\"]\n24:I[836222,[\"/_next/static/chunks/0hk_b7xgkd4m6.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0tgsa3kk2ystz.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/st
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 138056 ===
+tatic/chunks/0h~h~4-em9w7g.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0r5tos1dh~iwd.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"LargeQuote\"]\n14:[\"$\",\"$L10\",\"3\",{\"type\":\"secondary-hero\",\"theme\":\"ultra-light\",\"locator\":\"$unde"])</script><script>self.__next_f.push([1,"fined\",\"children\":[\"$\",\"$L1a\",null,{
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | 052uyh96p @ 163101 ===
+tatic/chunks/0h~h~4-em9w7g.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0r5tos1dh~iwd.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0l9~aahaua.gc.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/052uyh96p_mzs.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"default\"]\n2a:I[92557,[\"/_next/static/chunks/0hk_b7xgkd4m6.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0tgsa3kk2ystz.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/ch
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | LouizeDisplay @ 296 ===
+6Tahb8bYNMHiKG68mpNy" lang="en"><head><meta charSet="utf-8"/><link rel="preconnect" href="/sanity-api"/><link href="/sanity-api" rel="dns-prefetch"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="preload" href="fonts/LouizeDisplay.woff2" as="font" crossorigin="anonymous" type="font/woff2"/><link rel="preload" href="fonts/LouizeDisplay-Italic.woff2" as="font" crossorigin="anonymous" type="font/woff2"/><link rel="stylesheet" href="/_next/static/chunks/18bp.akqca-3_.css?dpl=dpl_
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | LouizeDisplay @ 402 ===
+ink href="/sanity-api" rel="dns-prefetch"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="preload" href="fonts/LouizeDisplay.woff2" as="font" crossorigin="anonymous" type="font/woff2"/><link rel="preload" href="fonts/LouizeDisplay-Italic.woff2" as="font" crossorigin="anonymous" type="font/woff2"/><link rel="stylesheet" href="/_next/static/chunks/18bp.akqca-3_.css?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy" data-precedence="next"/><link rel="stylesheet" href="/_next/static/chunks/0_
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | LouizeDisplay @ 5805 ===
+dark-32x32.png" media="(prefers-color-scheme: dark)"/><link rel="icon" type="image/png" sizes="16x16" href="/favicon-dark-16x16.png" media="(prefers-color-scheme: dark)"/><link rel="manifest" href="/site.webmanifest"/><link rel="preload" href="fonts/LouizeDisplay.woff2" as="font" type="font/woff2" crossorigin="anonymous"/><link rel="preload" href="fonts/LouizeDisplay-Italic.woff2" as="font" type="font/woff2" crossorigin="anonymous"/><script type="application/ld+json">{"@context":"https://schema.org","@type":
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | LouizeDisplay @ 5911 ===
+="/favicon-dark-16x16.png" media="(prefers-color-scheme: dark)"/><link rel="manifest" href="/site.webmanifest"/><link rel="preload" href="fonts/LouizeDisplay.woff2" as="font" type="font/woff2" crossorigin="anonymous"/><link rel="preload" href="fonts/LouizeDisplay-Italic.woff2" as="font" type="font/woff2" crossorigin="anonymous"/><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"https://verostudio.com/#organization","name":"VERO","legalName":"Vero Studio LLC","u
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | LouizeDisplay @ 157583 ===
+/040~pl7oz.8jg.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0rr86m823plm1.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0fruuqydg84mu.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"PostHogProvider\"]\n:HL[\"fonts/LouizeDisplay.woff2\",\"font\",{\"crossOrigin\":\"anonymous\",\"type\":\"font/woff2\"}]\n:HL[\"fonts/LouizeDisplay-Italic.woff2\",\"font\",{\"crossOrigin\":\"anonymous\",\"type\":\"font/woff2\"}]\n"])</script><script>self.__next_f.push([1,"2:[\"$\",\"html\",null,
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | LouizeDisplay @ 157684 ===
+dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\",\"/_next/static/chunks/0fruuqydg84mu.js?dpl=dpl_5DJLEfML6Tahb8bYNMHiKG68mpNy\"],\"PostHogProvider\"]\n:HL[\"fonts/LouizeDisplay.woff2\",\"font\",{\"crossOrigin\":\"anonymous\",\"type\":\"font/woff2\"}]\n:HL[\"fonts/LouizeDisplay-Italic.woff2\",\"font\",{\"crossOrigin\":\"anonymous\",\"type\":\"font/woff2\"}]\n"])</script><script>self.__next_f.push([1,"2:[\"$\",\"html\",null,{\"lang\":\"en\",\"children\":[[\"$\",\"head\",null,{\"children\":[[\"$\",\"link\",null,{\"rel\":\"ap
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | LouizeDisplay @ 160193 ===
+t studio that transforms your wedding dress into a timeless sculpture.\\\",\\\"inLanguage\\\":\\\"en-US\\\",\\\"publisher\\\":{\\\"@id\\\":\\\"https://verostudio.com/#organization\\\"}}\"}}],[\"$\",\"link\",null,{\"rel\":\"preload\",\"href\":\"fonts/LouizeDisplay.woff2\",\"as\":\"font\",\"type\":\"font/woff2\",\"crossOrigin\":\"anonymous\"}],[\"$\",\"link\",null,{\"rel\":\"preload\",\"href\":\"fonts/LouizeDisplay-Italic.woff2\",\"as\":\"font\",\"type\":\"font/woff2\",\"crossOrigin\":\"anonymous\"}]]}],[\"$\"
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\index.html | LouizeDisplay @ 160346 ===
+rostudio.com/#organization\\\"}}\"}}],[\"$\",\"link\",null,{\"rel\":\"preload\",\"href\":\"fonts/LouizeDisplay.woff2\",\"as\":\"font\",\"type\":\"font/woff2\",\"crossOrigin\":\"anonymous\"}],[\"$\",\"link\",null,{\"rel\":\"preload\",\"href\":\"fonts/LouizeDisplay-Italic.woff2\",\"as\":\"font\",\"type\":\"font/woff2\",\"crossOrigin\":\"anonymous\"}]]}],[\"$\",\"body\",null,{\"children\":[[\"$\",\"a\",null,{\"href\":\"#main-content\",\"className\":\"skip-to-content\",\"children\":\"Skip to main content\"}],[\"
+
+=== hero/index.html ===
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\hero\index.html | graphic designer @ 167 ===
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vicky ù Graphic Designer</title>
+    <meta name="description" content="Building design-led digital products, one at a time." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\hero\index.html | graphic designer @ 2402 ===
+     </div>
+
+        <div class="hero-overlay" id="hero-overlay">
+          <div>
+            <div class="hero-top">
+              <p class="hero-identity">
+                <span class="hero-name">Vicky</span>
+                <span class="hero-role">Graphic Designer</span>
+              </p>
+              <div class="hero-ctas">
+                <a class="hero-book" href="#vero-embed">
+                  Enter Vero
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+
+=== CHUNK 0hk_b7xgkd4m6.js hits: ['11sswtocfulc', '0~yq2b2d3iy8i'] ===
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\0hk_b7xgkd4m6.js | 11sswtocfulc @ 29337 ===
+tic/chunks/113pxml9t0jd6.js"].map(t=>e.l(t))).then(()=>t(559976)))},480137,e=>{e.v(t=>Promise.all(["static/chunks/0~yq2b2d3iy8i.js","static/chunks/0ejpr-~b5t07-.js"].map(t=>e.l(t))).then(()=>t(955690)))},839680,e=>{e.v(t=>Promise.all(["static/chunks/11sswtocfulc~.js","static/chunks/0ejpr-~b5t07-.js"].map(t=>e.l(t))).then(()=>t(318833)))}]);
+
+//# debugId=34e88bcb-b47f-45ea-dc27-b25faa7fb5b1
+//# sourceMappingURL=0znkvd8u6ox0m.js.map
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\0hk_b7xgkd4m6.js | 0~yq2b2d3iy8i @ 29201 ===
+"static/chunks/0z9o~7xzijjpz.js","static/chunks/04tq22d84-ezy.js","static/chunks/0iwr_5a142bmx.js","static/chunks/0m6w9wch0hbnf.js","static/chunks/113pxml9t0jd6.js"].map(t=>e.l(t))).then(()=>t(559976)))},480137,e=>{e.v(t=>Promise.all(["static/chunks/0~yq2b2d3iy8i.js","static/chunks/0ejpr-~b5t07-.js"].map(t=>e.l(t))).then(()=>t(955690)))},839680,e=>{e.v(t=>Promise.all(["static/chunks/11sswtocfulc~.js","static/chunks/0ejpr-~b5t07-.js"].map(t=>e.l(t))).then(()=>t(318833)))}]);
+
+//# debugId=34e88bcb-b47f-45ea-dc
+
+=== CHUNK 0~yq2b2d3iy8i.js hits: ['char:"V"', 'font.json', 'webgl/logo'] ===
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\0~yq2b2d3iy8i.js | char:"V" @ 9613 ===
+age2D(this.target,0,this.gl.RGBA,1,1,0,this.gl.RGBA,this.gl.UNSIGNED_BYTE,i);this.store.image=this.image}}}])},955690,t=>{"use strict";var i=t.i(283266),e=t.i(811998),s=t.i(945281),r=t.i(109306),h=t.i(359409),a=t.i(185390),n=t.i(445942);let o=[{id:0,char:"V",x:0.0,y:1.62,width:71.08,height:87.23},{id:1,char:"I",x:75.92,y:1.62,width:19.38,height:85.61},{id:2,char:"C",x:103.38,y:0.0,width:75.92,height:88.85},{id:3,char:"K",x:187.38,y:1.62,width:67.85,height:87.23},{id:4,char:"Y",x:252.0,y:1.62,width:65.42
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\0~yq2b2d3iy8i.js | font.json @ 10776 ===
+lStart,this.onRevealEnd=t.onRevealEnd,void 0!==t.animate&&!1===this.animate&&(this.animate=t.animate,this.animate&&(this.start=null))}async mount(){let t=new Image;t.crossOrigin="anonymous",t.src="/webgl/logo/font.png";let s=await fetch("/webgl/logo/font.json").then(t=>t.json());try{await t.decode()}catch{}this.texture.image=t,this.texture.needsUpdate=!0;let h=o.length,n=4*h,l=new Float32Array(3*n),g=new Float32Array(2*n),m=new Float32Array(+n),p=new Uint16Array(6*h),u=s.info.padding[0],c=s.common.scaleW
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\0~yq2b2d3iy8i.js | webgl/logo @ 10724 ===
+s(t){this.color=t.color,this.onRevealStart=t.onRevealStart,this.onRevealEnd=t.onRevealEnd,void 0!==t.animate&&!1===this.animate&&(this.animate=t.animate,this.animate&&(this.start=null))}async mount(){let t=new Image;t.crossOrigin="anonymous",t.src="/webgl/logo/font.png";let s=await fetch("/webgl/logo/font.json").then(t=>t.json());try{await t.decode()}catch{}this.texture.image=t,this.texture.needsUpdate=!0;let h=o.length,n=4*h,l=new Float32Array(3*n),g=new Float32Array(2*n),m=new Float32Array(+n),p=new Uin
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\0~yq2b2d3iy8i.js | webgl/logo @ 10765 ===
+t=t.onRevealStart,this.onRevealEnd=t.onRevealEnd,void 0!==t.animate&&!1===this.animate&&(this.animate=t.animate,this.animate&&(this.start=null))}async mount(){let t=new Image;t.crossOrigin="anonymous",t.src="/webgl/logo/font.png";let s=await fetch("/webgl/logo/font.json").then(t=>t.json());try{await t.decode()}catch{}this.texture.image=t,this.texture.needsUpdate=!0;let h=o.length,n=4*h,l=new Float32Array(3*n),g=new Float32Array(2*n),m=new Float32Array(+n),p=new Uint16Array(6*h),u=s.info.padding[0],c=s.com
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\0~yq2b2d3iy8i.js | REGEX id:\s*0,\s*char:\s*"V" @ 9608 ===
+texImage2D(this.target,0,this.gl.RGBA,1,1,0,this.gl.RGBA,this.gl.UNSIGNED_BYTE,i);this.store.image=this.image}}}])},955690,t=>{"use strict";var i=t.i(283266),e=t.i(811998),s=t.i(945281),r=t.i(109306),h=t.i(359409),a=t.i(185390),n=t.i(445942);let o=[{id:0,char:"V",x:0.0,y:1.62,width:71.08,height:87.23},{id:1,char:"I",x:75.92,y:1.62,width:19.38,height:85.61},{id:2,char:"C",x:103.38,y:0.0,width:75.92,height:88.85},{id:3,char:"K",x:187.38,y:1.62,width:67.85,height:87.23},{id:4,char:"Y",x:252.0,y:1.62,width:65.42
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\0~yq2b2d3iy8i.js | REGEX \[\{id:\d+,char:"[A-Z]" @ 9606 ===
+l.texImage2D(this.target,0,this.gl.RGBA,1,1,0,this.gl.RGBA,this.gl.UNSIGNED_BYTE,i);this.store.image=this.image}}}])},955690,t=>{"use strict";var i=t.i(283266),e=t.i(811998),s=t.i(945281),r=t.i(109306),h=t.i(359409),a=t.i(185390),n=t.i(445942);let o=[{id:0,char:"V",x:0.0,y:1.62,width:71.08,height:87.23},{id:1,char:"I",x:75.92,y:1.62,width:19.38,height:85.61},{id:2,char:"C",x:103.38,y:0.0,width:75.92,height:88.85},{id:3,char:"K",x:187.38,y:1.62,width:67.85,height:87.23},{id:4,char:"Y",x:252.0,y:1.62,width:65.42
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\0~yq2b2d3iy8i.js | REGEX char:"V".*char:"I".*char:"C".*char:"K".* @ 9613 ===
+age2D(this.target,0,this.gl.RGBA,1,1,0,this.gl.RGBA,this.gl.UNSIGNED_BYTE,i);this.store.image=this.image}}}])},955690,t=>{"use strict";var i=t.i(283266),e=t.i(811998),s=t.i(945281),r=t.i(109306),h=t.i(359409),a=t.i(185390),n=t.i(445942);let o=[{id:0,char:"V",x:0.0,y:1.62,width:71.08,height:87.23},{id:1,char:"I",x:75.92,y:1.62,width:19.38,height:85.61},{id:2,char:"C",x:103.38,y:0.0,width:75.92,height:88.85},{id:3,char:"K",x:187.38,y:1.62,width:67.85,height:87.23},{id:4,char:"Y",x:252.0,y:1.62,width:65.42,height:85.61}];class l extends h.Transform{gl;camera;color;animate;onRevealStart;onRevealEnd;logo;texture;start=null;dimensions={size:[0,0],center:[0,0]};constructor(t,{color:i,animate:e,onRevealStart:r,onRevealEnd:h}={}){
+
+=== CHUNK 11sswtocfulc.js hits: ['char:"V"', 'font.json', 'webgl/logo'] ===
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\11sswtocfulc.js | char:"V" @ 9613 ===
+age2D(this.target,0,this.gl.RGBA,1,1,0,this.gl.RGBA,this.gl.UNSIGNED_BYTE,i);this.store.image=this.image}}}])},955690,t=>{"use strict";var i=t.i(283266),e=t.i(811998),s=t.i(945281),r=t.i(109306),a=t.i(359409),h=t.i(185390),n=t.i(445942);let o=[{id:0,char:"V",x:0.0,y:1.62,width:71.08,height:87.23},{id:1,char:"I",x:75.92,y:1.62,width:19.38,height:85.61},{id:2,char:"C",x:103.38,y:0.0,width:75.92,height:88.85},{id:3,char:"K",x:187.38,y:1.62,width:67.85,height:87.23},{id:4,char:"Y",x:252.0,y:1.62,width:65.42
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\11sswtocfulc.js | font.json @ 10776 ===
+lStart,this.onRevealEnd=t.onRevealEnd,void 0!==t.animate&&!1===this.animate&&(this.animate=t.animate,this.animate&&(this.start=null))}async mount(){let t=new Image;t.crossOrigin="anonymous",t.src="/webgl/logo/font.png";let s=await fetch("/webgl/logo/font.json").then(t=>t.json());try{await t.decode()}catch{}this.texture.image=t,this.texture.needsUpdate=!0;let a=o.length,n=4*a,l=new Float32Array(3*n),g=new Float32Array(2*n),m=new Float32Array(+n),p=new Uint16Array(6*a),u=s.info.padding[0],c=s.common.scaleW
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\11sswtocfulc.js | webgl/logo @ 10724 ===
+s(t){this.color=t.color,this.onRevealStart=t.onRevealStart,this.onRevealEnd=t.onRevealEnd,void 0!==t.animate&&!1===this.animate&&(this.animate=t.animate,this.animate&&(this.start=null))}async mount(){let t=new Image;t.crossOrigin="anonymous",t.src="/webgl/logo/font.png";let s=await fetch("/webgl/logo/font.json").then(t=>t.json());try{await t.decode()}catch{}this.texture.image=t,this.texture.needsUpdate=!0;let a=o.length,n=4*a,l=new Float32Array(3*n),g=new Float32Array(2*n),m=new Float32Array(+n),p=new Uin
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\11sswtocfulc.js | webgl/logo @ 10765 ===
+t=t.onRevealStart,this.onRevealEnd=t.onRevealEnd,void 0!==t.animate&&!1===this.animate&&(this.animate=t.animate,this.animate&&(this.start=null))}async mount(){let t=new Image;t.crossOrigin="anonymous",t.src="/webgl/logo/font.png";let s=await fetch("/webgl/logo/font.json").then(t=>t.json());try{await t.decode()}catch{}this.texture.image=t,this.texture.needsUpdate=!0;let a=o.length,n=4*a,l=new Float32Array(3*n),g=new Float32Array(2*n),m=new Float32Array(+n),p=new Uint16Array(6*a),u=s.info.padding[0],c=s.com
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\11sswtocfulc.js | REGEX id:\s*0,\s*char:\s*"V" @ 9608 ===
+texImage2D(this.target,0,this.gl.RGBA,1,1,0,this.gl.RGBA,this.gl.UNSIGNED_BYTE,i);this.store.image=this.image}}}])},955690,t=>{"use strict";var i=t.i(283266),e=t.i(811998),s=t.i(945281),r=t.i(109306),a=t.i(359409),h=t.i(185390),n=t.i(445942);let o=[{id:0,char:"V",x:0.0,y:1.62,width:71.08,height:87.23},{id:1,char:"I",x:75.92,y:1.62,width:19.38,height:85.61},{id:2,char:"C",x:103.38,y:0.0,width:75.92,height:88.85},{id:3,char:"K",x:187.38,y:1.62,width:67.85,height:87.23},{id:4,char:"Y",x:252.0,y:1.62,width:65.42
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\11sswtocfulc.js | REGEX \[\{id:\d+,char:"[A-Z]" @ 9606 ===
+l.texImage2D(this.target,0,this.gl.RGBA,1,1,0,this.gl.RGBA,this.gl.UNSIGNED_BYTE,i);this.store.image=this.image}}}])},955690,t=>{"use strict";var i=t.i(283266),e=t.i(811998),s=t.i(945281),r=t.i(109306),a=t.i(359409),h=t.i(185390),n=t.i(445942);let o=[{id:0,char:"V",x:0.0,y:1.62,width:71.08,height:87.23},{id:1,char:"I",x:75.92,y:1.62,width:19.38,height:85.61},{id:2,char:"C",x:103.38,y:0.0,width:75.92,height:88.85},{id:3,char:"K",x:187.38,y:1.62,width:67.85,height:87.23},{id:4,char:"Y",x:252.0,y:1.62,width:65.42
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\11sswtocfulc.js | REGEX char:"V".*char:"I".*char:"C".*char:"K".* @ 9613 ===
+age2D(this.target,0,this.gl.RGBA,1,1,0,this.gl.RGBA,this.gl.UNSIGNED_BYTE,i);this.store.image=this.image}}}])},955690,t=>{"use strict";var i=t.i(283266),e=t.i(811998),s=t.i(945281),r=t.i(109306),a=t.i(359409),h=t.i(185390),n=t.i(445942);let o=[{id:0,char:"V",x:0.0,y:1.62,width:71.08,height:87.23},{id:1,char:"I",x:75.92,y:1.62,width:19.38,height:85.61},{id:2,char:"C",x:103.38,y:0.0,width:75.92,height:88.85},{id:3,char:"K",x:187.38,y:1.62,width:67.85,height:87.23},{id:4,char:"Y",x:252.0,y:1.62,width:65.42,height:85.61}];class l extends a.Transform{gl;camera;color;animate;onRevealStart;onRevealEnd;logo;texture;start=null;dimensions={size:[0,0],center:[0,0]};constructor(t,{color:i,animate:e,onRevealStart:r,onRevealEnd:a}={}){
+
+=== CHUNK 11sswtocfulc~.js hits: ['char:"V"', 'font.json', 'webgl/logo'] ===
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\11sswtocfulc~.js | char:"V" @ 9613 ===
+age2D(this.target,0,this.gl.RGBA,1,1,0,this.gl.RGBA,this.gl.UNSIGNED_BYTE,i);this.store.image=this.image}}}])},955690,t=>{"use strict";var i=t.i(283266),e=t.i(811998),s=t.i(945281),r=t.i(109306),a=t.i(359409),h=t.i(185390),n=t.i(445942);let o=[{id:0,char:"V",x:0.0,y:1.62,width:71.08,height:87.23},{id:1,char:"I",x:75.92,y:1.62,width:19.38,height:85.61},{id:2,char:"C",x:103.38,y:0.0,width:75.92,height:88.85},{id:3,char:"K",x:187.38,y:1.62,width:67.85,height:87.23},{id:4,char:"Y",x:252.0,y:1.62,width:65.42
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\11sswtocfulc~.js | font.json @ 10776 ===
+lStart,this.onRevealEnd=t.onRevealEnd,void 0!==t.animate&&!1===this.animate&&(this.animate=t.animate,this.animate&&(this.start=null))}async mount(){let t=new Image;t.crossOrigin="anonymous",t.src="/webgl/logo/font.png";let s=await fetch("/webgl/logo/font.json").then(t=>t.json());try{await t.decode()}catch{}this.texture.image=t,this.texture.needsUpdate=!0;let a=o.length,n=4*a,l=new Float32Array(3*n),g=new Float32Array(2*n),m=new Float32Array(+n),p=new Uint16Array(6*a),u=s.info.padding[0],c=s.common.scaleW
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\11sswtocfulc~.js | webgl/logo @ 10724 ===
+s(t){this.color=t.color,this.onRevealStart=t.onRevealStart,this.onRevealEnd=t.onRevealEnd,void 0!==t.animate&&!1===this.animate&&(this.animate=t.animate,this.animate&&(this.start=null))}async mount(){let t=new Image;t.crossOrigin="anonymous",t.src="/webgl/logo/font.png";let s=await fetch("/webgl/logo/font.json").then(t=>t.json());try{await t.decode()}catch{}this.texture.image=t,this.texture.needsUpdate=!0;let a=o.length,n=4*a,l=new Float32Array(3*n),g=new Float32Array(2*n),m=new Float32Array(+n),p=new Uin
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\11sswtocfulc~.js | webgl/logo @ 10765 ===
+t=t.onRevealStart,this.onRevealEnd=t.onRevealEnd,void 0!==t.animate&&!1===this.animate&&(this.animate=t.animate,this.animate&&(this.start=null))}async mount(){let t=new Image;t.crossOrigin="anonymous",t.src="/webgl/logo/font.png";let s=await fetch("/webgl/logo/font.json").then(t=>t.json());try{await t.decode()}catch{}this.texture.image=t,this.texture.needsUpdate=!0;let a=o.length,n=4*a,l=new Float32Array(3*n),g=new Float32Array(2*n),m=new Float32Array(+n),p=new Uint16Array(6*a),u=s.info.padding[0],c=s.com
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\11sswtocfulc~.js | REGEX id:\s*0,\s*char:\s*"V" @ 9608 ===
+texImage2D(this.target,0,this.gl.RGBA,1,1,0,this.gl.RGBA,this.gl.UNSIGNED_BYTE,i);this.store.image=this.image}}}])},955690,t=>{"use strict";var i=t.i(283266),e=t.i(811998),s=t.i(945281),r=t.i(109306),a=t.i(359409),h=t.i(185390),n=t.i(445942);let o=[{id:0,char:"V",x:0.0,y:1.62,width:71.08,height:87.23},{id:1,char:"I",x:75.92,y:1.62,width:19.38,height:85.61},{id:2,char:"C",x:103.38,y:0.0,width:75.92,height:88.85},{id:3,char:"K",x:187.38,y:1.62,width:67.85,height:87.23},{id:4,char:"Y",x:252.0,y:1.62,width:65.42
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\11sswtocfulc~.js | REGEX \[\{id:\d+,char:"[A-Z]" @ 9606 ===
+l.texImage2D(this.target,0,this.gl.RGBA,1,1,0,this.gl.RGBA,this.gl.UNSIGNED_BYTE,i);this.store.image=this.image}}}])},955690,t=>{"use strict";var i=t.i(283266),e=t.i(811998),s=t.i(945281),r=t.i(109306),a=t.i(359409),h=t.i(185390),n=t.i(445942);let o=[{id:0,char:"V",x:0.0,y:1.62,width:71.08,height:87.23},{id:1,char:"I",x:75.92,y:1.62,width:19.38,height:85.61},{id:2,char:"C",x:103.38,y:0.0,width:75.92,height:88.85},{id:3,char:"K",x:187.38,y:1.62,width:67.85,height:87.23},{id:4,char:"Y",x:252.0,y:1.62,width:65.42
+
+=== d:\Node\personal\3d\www.verostudio.com\www.verostudio.com\_next\static\chunks\11sswtocfulc~.js | REGEX char:"V".*char:"I".*char:"C".*char:"K".* @ 9613 ===
+age2D(this.target,0,this.gl.RGBA,1,1,0,this.gl.RGBA,this.gl.UNSIGNED_BYTE,i);this.store.image=this.image}}}])},955690,t=>{"use strict";var i=t.i(283266),e=t.i(811998),s=t.i(945281),r=t.i(109306),a=t.i(359409),h=t.i(185390),n=t.i(445942);let o=[{id:0,char:"V",x:0.0,y:1.62,width:71.08,height:87.23},{id:1,char:"I",x:75.92,y:1.62,width:19.38,height:85.61},{id:2,char:"C",x:103.38,y:0.0,width:75.92,height:88.85},{id:3,char:"K",x:187.38,y:1.62,width:67.85,height:87.23},{id:4,char:"Y",x:252.0,y:1.62,width:65.42,height:85.61}];class l extends a.Transform{gl;camera;color;animate;onRevealStart;onRevealEnd;logo;texture;start=null;dimensions={size:[0,0],center:[0,0]};constructor(t,{color:i,animate:e,onRevealStart:r,onRevealEnd:a}={}){
+
+=== script chunks referenced in index.html ===
+  0f4lvirgu_tl7.js local=YES
+  0rg57dqhtc7mz.js local=YES
+  0k7clit8ax_.~.js local=YES
+  0fkbmzrhnu075.js local=YES
+  0pfr5ypyk26l~.js local=YES
+  0yw34h1reer-v.js local=YES
+  115-ylee-fuct.js local=YES
+  turbopack-02s--b2e7r0cz.js local=YES
+  0hk_b7xgkd4m6.js local=YES
+  0tgsa3kk2ystz.js local=YES
+  0_-owz2gqauyp.js local=YES
+  0lt-.ha_261u8.js local=YES
+  0jnvfabahyhmj.js local=YES
+  02unrdx1lxkac.js local=YES
+  0zjg_4s8nezvs.js local=YES
+  040~pl7oz.8jg.js local=YES
+  0rr86m823plm1.js local=YES
+  0fruuqydg84mu.js local=YES
+  0n6hizhi3wore.js local=YES
+  0h~h~4-em9w7g.js local=YES
+  0r5tos1dh~iwd.js local=YES
+  0l9~aahaua.gc.js local=YES
+  052uyh96p_mzs.js local=YES
+  07yqe6s1w-tze.js local=YES
+  03~yq9q893hmn.js local=YES
+  17gsouh7epk3e.js local=YES
