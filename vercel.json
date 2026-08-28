@@ -4,5 +4,31 @@
   "buildCommand": null,
   "installCommand": null,
   "outputDirectory": "www.verostudio.com/www.verostudio.com",
-  "cleanUrls": true
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/sanity-api/:path*",
+      "destination": "https://xei5vqg0.api.sanity.io/:path*"
+    },
+    {
+      "source": "/api-sanity/:path*",
+      "destination": "https://xei5vqg0.api.sanity.io/:path*"
+    },
+    {
+      "source": "/sanity-cdn/:path*",
+      "destination": "https://cdn.sanity.io/:path*"
+    },
+    {
+      "source": "/_next/static/:path*",
+      "destination": "https://www.verostudio.com/_next/static/:path*"
+    },
+    {
+      "source": "/fonts/:path*",
+      "destination": "https://www.verostudio.com/fonts/:path*"
+    },
+    {
+      "source": "/webgl/:path*",
+      "destination": "https://www.verostudio.com/webgl/:path*"
+    }
+  ]
 }
