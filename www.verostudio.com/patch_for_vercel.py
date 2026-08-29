@@ -62,7 +62,10 @@ def patch_text(text: str, origin: str) -> str:
 
 
 def main() -> int:
-    vercel_url = os.environ.get("VERCEL_URL", "").strip()
+    vercel_url = (
+        os.environ.get("VERCEL_PROJECT_PRODUCTION_URL", "").strip()
+        or os.environ.get("VERCEL_URL", "").strip()
+    )
     if vercel_url:
         origin = f"https://{vercel_url}"
     else:
