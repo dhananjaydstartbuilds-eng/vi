@@ -1,7 +1,7 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": null,
-  "buildCommand": null,
+  "buildCommand": "python www.verostudio.com/patch_for_vercel.py",
   "installCommand": null,
   "outputDirectory": "www.verostudio.com/www.verostudio.com",
   "cleanUrls": true,
@@ -34,10 +34,6 @@
     {
       "source": "/sanity-cdn/:path*",
       "destination": "https://cdn.sanity.io/:path*"
-    },
-    {
-      "source": "/_next/static/:path*",
-      "destination": "https://www.verostudio.com/_next/static/:path*"
     },
     {
       "source": "/fonts/:path*",
