@@ -65,26 +65,14 @@
     });
   }
 
-  fixScrollerMedia();
-
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", fixScrollerMedia);
+  function runAfterHydration() {
+    fixScrollerMedia();
+    window.setTimeout(fixScrollerMedia, 2000);
   }
 
-  window.addEventListener("load", fixScrollerMedia);
-
-  var observer = new MutationObserver(fixScrollerMedia);
-  observer.observe(document.documentElement, {
-    childList: true,
-    subtree: true,
-    attributes: true,
-    attributeFilter: ["src", "srcset"],
-  });
-
-  var intervalId = window.setInterval(fixScrollerMedia, 500);
-
-  window.setTimeout(function () {
-    observer.disconnect();
-    window.clearInterval(intervalId);
-  }, 10000);
+  if (document.readyState === "complete") {
+    runAfterHydration();
+  } else {
+    window.addEventListener("load", runAfterHydration, { once: true });
+  }
 })();

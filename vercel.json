@@ -5,6 +5,23 @@
   "installCommand": null,
   "outputDirectory": "www.verostudio.com/www.verostudio.com",
   "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/hero",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/hero/",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/vero/",
+      "destination": "/vero",
+      "permanent": false
+    }
+  ],
   "rewrites": [
     {
       "source": "/sanity-api/:path*",
