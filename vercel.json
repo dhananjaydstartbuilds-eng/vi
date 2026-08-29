@@ -46,6 +46,37 @@
     {
       "source": "/webgl/:path*",
       "destination": "https://www.verostudio.com/webgl/:path*"
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "header",
+          "key": "RSC",
+          "value": "1"
+        }
+      ],
+      "destination": "https://www.verostudio.com/"
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "_rsc"
+        }
+      ],
+      "destination": "https://www.verostudio.com/"
+    },
+    {
+      "source": "/vero",
+      "has": [
+        {
+          "type": "query",
+          "key": "_rsc"
+        }
+      ],
+      "destination": "https://www.verostudio.com/"
     }
   ]
 }
