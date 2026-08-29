@@ -135,19 +135,21 @@ class SiteHandler(SimpleHTTPRequestHandler):
             return
 
         if path in ("", "/"):
-            self.path = f"/hero/index.html{query_suffix}"
-            path = "/hero/index.html"
+            self.path = f"/index.html{query_suffix}"
+            path = "/index.html"
+        elif path in ("/hero", "/hero/"):
+            self.send_response(302)
+            self.send_header("Location", f"/{query_suffix}" if query_suffix else "/")
+            self.end_headers()
+            return
         elif path == "/vero/":
             self.send_response(302)
             self.send_header("Location", f"/vero{query_suffix}")
             self.end_headers()
             return
         elif path == "/vero":
-            self.path = f"/index.html{query_suffix}"
-            path = "/index.html"
-        elif path in ("/hero", "/hero/"):
-            self.path = f"/hero/index.html{query_suffix}"
-            path = "/hero/index.html"
+            self.path = f"/vero/index.html{query_suffix}"
+            path = "/vero/index.html"
         elif not self._local_path_exists(path):
             html_fallback = f"{path.rstrip('/')}.html"
             if self._local_path_exists(html_fallback):

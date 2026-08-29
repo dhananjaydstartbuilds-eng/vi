@@ -326,7 +326,8 @@ html::-webkit-scrollbar:horizontal {
 }
 
 .hero-tabs {
-  display: none;
+  display: none !important;
+}
   flex-wrap: wrap;
   align-items: center;
   gap: 0.25rem 0.25rem;
@@ -647,14 +648,6 @@ html::-webkit-scrollbar:horizontal {
 
   .hero-role {
     font-size: 1rem;
-  }
-
-  .hero-tabs {
-    display: flex;
-  }
-
-  .hero-tab {
-    font-size: 0.75rem;
   }
 
   .hero-headline {
